@@ -1,10 +1,12 @@
 # blog page sections
-- name: Ciência de Dados
-  href: '/Ciência de Dados/'
+- name: ciência de dados
+  href: '/ciência de dados/'
   sections:
   - name: Ciência de Dados
     href: '/Ciência de Dados/'
 
+- name: competições kaggle
+  href: '/competições kaggle/'
 
 - name: rand()
   href: '/rand()/'
