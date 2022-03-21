@@ -2,8 +2,8 @@
 - name: ciência de dados
   href: '/ciência de dados/'
   sections:
-  - name: Ciência de Dados
-    href: '/Ciência de Dados/'
+  - name: ciência de dados
+    href: '/ciência de dados/'
 
 - name: competições kaggle
   href: '/competições kaggle/'
