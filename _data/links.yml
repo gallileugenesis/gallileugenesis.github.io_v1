@@ -1,6 +1,6 @@
 # blog page sections
 - name: ciência de dados
-  #href: '/ciência de dados/'
+  href: '/ciência de dados/'
   sections:
   - name: Ciência de Dados
     href: '/Ciência de Dados/'
