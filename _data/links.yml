@@ -1,9 +1,9 @@
 # blog page sections
 - name: Ciência de Dados
   href: '/Ciência de Dados/'
-  
-- name: Regressão
-  href: '/Regressão/'
+
+   - name: Regressão
+     href: '/Regressão/'
 
 - name: rand()
   href: '/rand()/'
