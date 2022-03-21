@@ -2,7 +2,7 @@
 layout: post
 title:  "Teste"
 date:   2017-06-03 00:00
-category: Ciência de Dados
+category: ciência de dados
 icon: www
 keywords: tag1, tag2
 image: 1.jpg
