@@ -2,8 +2,8 @@
 - name: Ciência de Dados
   href: '/Ciência de Dados/'
 
-   - name: Regressão
-     href: '/Ciência de Dados//Regressão/'
+- name: Regressão
+  href: '/Ciência de Dados//Regressão/'
 
 - name: rand()
   href: '/rand()/'
