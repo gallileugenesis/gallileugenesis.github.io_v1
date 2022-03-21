@@ -2,7 +2,7 @@
 layout: post
 title:  "Teste"
 date:   2017-06-03 00:00
-category: ciência de dados
+category: regressão
 icon: www
 keywords: tag1, tag2
 image: 1.jpg
