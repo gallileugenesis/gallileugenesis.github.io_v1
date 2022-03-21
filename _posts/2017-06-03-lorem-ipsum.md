@@ -6,7 +6,7 @@ category: Ciência de Dados
 icon: www
 keywords: tag1, tag2
 image: 1.jpg
-preview: 1
+preview: 0
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
