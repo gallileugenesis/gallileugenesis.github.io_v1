@@ -3,7 +3,7 @@
   href: '/ciência de dados/'
   sections:
   - name: regressão
-    href: '/regressão/'
+    href: '/ciência de dados/regressão/'
 
 - name: competições kaggle
   href: '/competições kaggle/'
