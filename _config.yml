@@ -6,10 +6,10 @@ url: "https://gallileugenesis.github.io/" # the base hostname & protocol for you
 
 
 author:
-  name: 'Gallileu Genesis'
-  last_name: ''
+  name: 'Gallileu'
+  last_name: 'Genesis'
   #cv: '//kaptn.ru'
-  avatar: '/images/avatar.jpeg'
+  avatar: '/images/logo.svg'
   github_username:  gallileugenesis  
   email: galileugenesis@gmail.com
   #vk_id: id201664979
