@@ -16,7 +16,7 @@
 
 		&.left,
 		&.right {
-			max-width: 100%;
+			max-width: 40%;
 
 			img {
 				width: 100%;
@@ -72,7 +72,7 @@
 		}
 	}
 @media (max-width: 768px) {
-	.image.left.image-icon {
+	.image.center.image-icon {
 		padding: 0;
 		float: none;
     		padding-bottom: 32px;
