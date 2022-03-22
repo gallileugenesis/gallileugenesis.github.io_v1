@@ -2,11 +2,11 @@
 layout: post
 title:  "Teste"
 date:   2022-03-21 00:00
-category: ciência de dados
+category: rand()
 icon: www
 keywords: tag1, tag2, tag3
 image: 1.jpg
-preview: 0
+preview: 1
 ---
 
 # Teste
