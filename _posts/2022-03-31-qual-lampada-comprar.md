@@ -5,7 +5,7 @@ date:   2022-03-31 00:00
 category: ciência de dados 
 icon: www
 keywords: análise de dados, ciência de dados, estatística 
-image: lampadas.jpg
+image: 1.jpg
 preview: 0
 ---
 
