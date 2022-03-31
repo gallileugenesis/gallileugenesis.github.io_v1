@@ -13,7 +13,7 @@ Imaginem a seguinte situação: uma empresa está se preparando para comprar uma
 
 Essa empresa recebe então os dados do tempo de duração, em horas,  de lâmpadas de dois fabricantes diferentes, A e B, como mostra a tabela abaixo. 
 
-![df.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true)
+![df.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme)
 
 Ao todo, o banco de dados contém 40 entradas com os respectivos tempos de duração das lâmpadas A e B. 
 
