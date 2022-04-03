@@ -2,7 +2,7 @@
 layout: post
 title:  "Teste"
 date:   2022-03-21 00:00
-category: rand()
+category: rand2()
 icon: www
 keywords: tag1, tag2, tag3
 image: lampadas.jpg

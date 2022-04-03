@@ -1,4 +1,7 @@
 # blog page sections
+- name: rand2()
+  href: '/rand2()/'
+
 - name: competições kaggle
   href: '/competições kaggle/'
 
