@@ -6,7 +6,7 @@ category: rand()
 icon: www
 keywords: tag1, tag2, tag3
 image: lampadas.jpg
-preview: 0
+preview: 1
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod

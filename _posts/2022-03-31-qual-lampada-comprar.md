@@ -2,10 +2,10 @@
 layout: post
 title:  "qual lâmpada comprar?"
 date:   2022-03-31 00:00
-category: ciência de dados 
+category: ciência de dados
 icon: www
-keywords: análise de dados, ciência de dados, estatística 
-image: 1.jpg
+keywords: tag1, tag2, tag3
+image: 1.png
 preview: 0
 ---
 
