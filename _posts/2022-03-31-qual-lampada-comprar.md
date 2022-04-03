@@ -34,8 +34,6 @@ Bem, vamos começar com uma descrição estatística básica dos dados:
 |  75%  | 971.250000  | 1085.500000 |
 |  max  | 1093.000000 | 1230.000000 |
 
-
-
 O que esses dados nos dizem? Bom, primeiro, a média de duração da lâmpada A é de 909,65 horas, ao passo que a lâmpada B dura, em média, 1018,35 horas, como também está mostrado na figura abaixo. Isso significa que, para esse conjunto de dados,  as lâmpadas do tipo B duram em média, 12% a mais do que as lâmpadas A.  
 
 ![tempo_medio.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/tempo_medio.png?raw=truestyle=centerme)
@@ -85,8 +83,6 @@ Para as lâpadas do fabricante A, espera-se, com 95% de confiança, que a média
 Já para as lâmpadas do fabricante B, esse intervalo está entre [987.36 e 1049.34], para o mesmo nível de confiança.
 
 Percebemos que o limite inferior de B é maior que o limite superior de A. Logo, agora com um maior nível de segurança, podemos afirma que a melhor opção de compra são as lâmpadas do fabricante B!
-
-
 
 Muito obrigado por ler esse artigo. 
 
