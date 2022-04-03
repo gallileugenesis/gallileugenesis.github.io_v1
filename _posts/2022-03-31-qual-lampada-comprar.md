@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "qual lâmpada comprar?"
-date:   2022-03-31 00:00
+date:   2022-03-31 
 category: ciência de dados
 icon: www
 keywords: tag1, tag2, tag3
