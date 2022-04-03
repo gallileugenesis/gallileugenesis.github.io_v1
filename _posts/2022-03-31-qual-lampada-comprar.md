@@ -2,7 +2,7 @@
 layout: post
 title:  "qual lâmpada comprar?"
 date:   2022-03-31 00:00
-category: rand2()
+category: ciência
 icon: www
 keywords: tag1, tag2, tag3
 image: lampadas.jpg
