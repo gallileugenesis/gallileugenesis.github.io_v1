@@ -70,11 +70,13 @@ Quando não conhecemos nada a respeito do comportamento de uma dada população,
 
 Desse modo, para uma população com média $\mu$ e desvio padrão $\sigma$ desconhecidos, um intervalo de confiança, com um nível de confiança $C$, para a média populacional, com base em uma amostra aleatória simples (simple random sample, SRS) de tamanho $n$, é dado por,
 
-$IC = \overline{x} \pm t^*\dfrac{s}{\sqrt n}$$, 
 
+$$
+IC = \overline{x} \pm t^*\dfrac{s}{\sqrt n}
+$$
 onde $\overline{x}$ e $s$ são a média e desvio padrão amostral, respectivamente, e $t^*$ é igual a $(1-C)/2$ e é denominado valor crítico superior para a distribuição $t$ com $n-1$ graus de liberdade, $t(n-1)$.
 
-![img](http://www.stat.yale.edu/Courses/1997-98/101/confdiag.gif)
+![confdiag.gif](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/confdiag.gif?raw=true)
 
 Vamos então encontrar os intervalos de confiança para a médias das amostras A e B,  com um nível de confiança de 95%. Nesse caso, temos os seguintes resultados:
 
