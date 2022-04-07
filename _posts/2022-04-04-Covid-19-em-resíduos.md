@@ -17,19 +17,11 @@ Atuei, então, como consultor técnico, cujo objetivo foi a construção de uma 
 
 Abaixo tem-se algumas reportagens sobre a pesquisa no [Diário de Pernambuco](https://www.diariodepernambuco.com.br/noticia/vidaurbana/2021/05/nao-e-possivel-se-contaminar-com-o-coronavirus-atraves-dos-esgotos-sa.html) e no [Jornal do Comércio](https://jc.ne10.uol.com.br/pernambuco/2021/05/12129223-pesquisadores-da-ufpe-identificam-carga-genetica-do-novo-coronavirus-inativo-em-esgotos-sanitarios-do-recife.html)
 
+![1-DP.png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/1-DP.png?raw=true)
 
 
 
-
-![image-20220404001600908](C:\Users\galil\AppData\Roaming\Typora\typora-user-images\image-20220404001600908.png)
-
-
-
-![image-20220404001647897](C:\Users\galil\AppData\Roaming\Typora\typora-user-images\image-20220404001647897.png)
-
- 
-
-
+![1-JC.png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/1-JC.png?raw=true)
 
 
 
