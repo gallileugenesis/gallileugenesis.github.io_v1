@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Covid-19 em resíduos: diagnóstico e medidas de proteção"
-date:   2022-04-04 
-category: pesquisas
+date:   2022-04-07 
+category: pesquisa
 icon: www
 keywords: pesquisa, covid, análise de dados, ciência de dados
 image: 1-LSA-COVID.png
