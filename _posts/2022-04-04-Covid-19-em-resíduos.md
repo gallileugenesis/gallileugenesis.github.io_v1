@@ -5,7 +5,7 @@ date:   2022-04-07
 category: pesquisa
 icon: www
 keywords: pesquisa, covid, análise de dados, ciência de dados
-image: 1-LSA-COVID.png
+image: 1-LSA-COVID.jpg
 preview: 0
 ---
 
