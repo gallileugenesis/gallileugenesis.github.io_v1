@@ -90,10 +90,10 @@ Muito obrigado por ler esse artigo.
 
 Caso tenha interesse, você pode me encontrar no [GitHub](https://github.com/gallileugenesis) e [Linkedin](https://www.linkedin.com/in/gallileugenesis/).
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+![equation](<img src="http://www.sciweavers.org/tex2img.php?eq=x%3D1&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="x=1" width="46" height="14" />)
 
 
-
+<img src="http://www.sciweavers.org/tex2img.php?eq=x%3D1&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="x=1" width="46" height="14" />
 
 
 
