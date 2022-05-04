@@ -12,7 +12,7 @@ preview: 0
 <div style="text-align: justify;">
     <p> Entre os meses de Maio e Agosto de 2020 integrei o projeto de pesquisa <a href="https://sites.ufpe.br/lsa/covid-19/">Covid-19 em resíduos: diagnóstico e medidas de proteção</a>, desenvolvido no <a href="https://sites.ufpe.br/lsa/">Laboratório de Saneamento Ambiental (LSA-UFPE)</a>, sob a coordenação da <a href="https://www.linkedin.com/in/lourdinha-florencio-39781b10/?originalSubdomain=br">Profª Dra Lourdinha Florencio</a>. O objetivo da pesquisa foi estudar e monitorar a circulação do vírus SARS-CoV-2 nos esgotos domésticos e hospitalares, de modo a criar-se uma ferramenta de vigilância epidemiológica para detecção precoce e controle da Covid-19. Além disso, foi realizado um estudo estatístico de algumas variáveis socio-econômicas, em diversos bairros do recife, a fim de medir como essas variáveis se relacionam com as diferentes formas de como a pandemia evolui nas várias regiões da cidade. 
     <p> Atuei, então, como consultor técnico, cujo objetivo foi a construção de uma base de dados, basicamente usando técnicas de raspagem de dados, e a codificação das rotinas para análise estatística e técnicas de Inteligência Artificial aplicadas à predição de ocorrência e monitoramento do vírus COVID-19 por vias de esgoto urbano. 
-    <p>Parte dos resultados da pesquisas foram divulgadas na forma de relatórios técnicos, os quais seguem:
+    <p>Parte dos resultados da pesquisa foram divulgados na forma de relatórios técnicos, os quais seguem:
 
 <ul>
     <li> <a href="https://sites.ufpe.br/lsa/wp-content/uploads/sites/31/2020/08/Boletim-T%C3%A9cnico-Junho_2020_n-1.pdf">Boletim Técnico Número 1</a></li>
