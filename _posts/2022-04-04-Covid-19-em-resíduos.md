@@ -28,6 +28,6 @@ preview: 0
 
 <p style="text-align:center;"><img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/1-JC.png?raw=true" style="width:60%">    
 
-Muito obrigado por ler esse artigo. 
+<p> Muito obrigado por ler esse artigo. 
 
-Caso tenha interesse, você pode me encontrar no [GitHub](https://github.com/gallileugenesis) e [Linkedin](https://www.linkedin.com/in/gallileugenesis/).
+<p> Caso tenha interesse, você pode me encontrar no [GitHub](https://github.com/gallileugenesis) e [Linkedin](https://www.linkedin.com/in/gallileugenesis/).
