@@ -30,4 +30,4 @@ preview: 0
 
 <p> Muito obrigado por ler esse artigo. 
 
-<p> Caso tenha interesse, você pode me encontrar no [GitHub](https://github.com/gallileugenesis) e [Linkedin](https://www.linkedin.com/in/gallileugenesis/).
+<p> Caso tenha interesse, você pode me encontrar no <a href="https://github.com/gallileugenesis">GitHub</a> e <a href="https://www.linkedin.com/in/gallileugenesis/">Linkedin</a>.
