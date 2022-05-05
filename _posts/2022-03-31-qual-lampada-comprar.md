@@ -68,13 +68,11 @@ Comumente se usa intervalos de confiança de 99% e 95%.  Por exemplo, quando diz
 
 Quando não conhecemos nada a respeito do comportamento de uma dada população, ou seja, quando não conhecemos os parâmetros populacionais, e dispomos somente das amostras de uma população, como é o caso na maioria das aplicações práticas e também no nosso exemplo a respeito do tempo de duração das lâmpadas, precisamos recorrer a   [Distribuição t de Student](https://pt.wikipedia.org/wiki/Distribuição_t_de_Student) para encontrar o intervalo de confiança. 
 
-Desse modo, para uma população com média  (<img src="https://latex.codecogs.com/svg.image?\mu" title="https://latex.codecogs.com/svg.image?\mu" />)  e desvio padrão  (<img src="https://latex.codecogs.com/svg.image?\sigma" title="https://latex.codecogs.com/svg.image?\sigma" />)  desconhecidos, um intervalo de confiança, com um nível de confiança $C$, para a média populacional, com base em uma amostra aleatória simples (simple random sample, SRS) de tamanho $n$, é dado por,
+Desse modo, para uma população com média  (<img src="https://latex.codecogs.com/svg.image?\mu" title="https://latex.codecogs.com/svg.image?\mu" />)  e desvio padrão  (<img src="https://latex.codecogs.com/svg.image?\sigma" title="https://latex.codecogs.com/svg.image?\sigma" />)  desconhecidos, um intervalo de confiança, com um nível de confiança IC, para a média populacional, com base em uma amostra aleatória simples (simple random sample, SRS) de tamanho n, é dado por,
 
 
-$$
-IC = \overline{x} \pm t^*\dfrac{s}{\sqrt n}
-$$
-onde $\overline{x}$ e $s$ são a média e desvio padrão amostral, respectivamente, e $t^*$ é igual a $(1-C)/2$ e é denominado valor crítico superior para a distribuição $t$ com $n-1$ graus de liberdade, $t(n-1)$.
+<img src="https://latex.codecogs.com/svg.image?IC&space;=&space;\overline{x}&space;\pm&space;t^*\dfrac{s}{\sqrt&space;n}" title="https://latex.codecogs.com/svg.image?IC = \overline{x} \pm t^*\dfrac{s}{\sqrt n}" />
+onde  <img src="https://latex.codecogs.com/svg.image?\overline{x}" title="https://latex.codecogs.com/svg.image?\overline{x}" />  e  <img src="https://latex.codecogs.com/svg.image?s" title="https://latex.codecogs.com/svg.image?s" />  são a média e desvio padrão amostral, respectivamente, e  <img src="https://latex.codecogs.com/svg.image?t^*" title="https://latex.codecogs.com/svg.image?t^*" /> é igual a  <img src="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" title="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" />  e é denominado valor crítico superior para a distribuição $t$ com $n-1$ graus de liberdade,  <img src="https://latex.codecogs.com/svg.image?t(n-1)" title="https://latex.codecogs.com/svg.image?t(n-1)" />.
 
 ![confdiag.gif](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/confdiag.gif?raw=true)
 
