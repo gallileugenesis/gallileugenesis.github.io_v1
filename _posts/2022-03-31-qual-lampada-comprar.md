@@ -72,7 +72,9 @@ Desse modo, para uma população com média  (<img src="https://latex.codecogs.c
 
 
 <img src="https://latex.codecogs.com/svg.image?IC&space;=&space;\overline{x}&space;\pm&space;t^*\dfrac{s}{\sqrt&space;n}" title="https://latex.codecogs.com/svg.image?IC = \overline{x} \pm t^*\dfrac{s}{\sqrt n}" />
-onde  <img src="https://latex.codecogs.com/svg.image?\overline{x}" title="https://latex.codecogs.com/svg.image?\overline{x}" />  e  <img src="https://latex.codecogs.com/svg.image?s" title="https://latex.codecogs.com/svg.image?s" />  são a média e desvio padrão amostral, respectivamente, e  <img src="https://latex.codecogs.com/svg.image?t^*" title="https://latex.codecogs.com/svg.image?t^*" /> é igual a  <img src="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" title="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" />  e é denominado valor crítico superior para a distribuição $t$ com $n-1$ graus de liberdade,  <img src="https://latex.codecogs.com/svg.image?t(n-1)" title="https://latex.codecogs.com/svg.image?t(n-1)" />.
+
+
+onde  <img src="https://latex.codecogs.com/svg.image?\overline{x}" title="https://latex.codecogs.com/svg.image?\overline{x}" />  e  <img src="https://latex.codecogs.com/svg.image?s" title="https://latex.codecogs.com/svg.image?s" />  são a média e desvio padrão amostral, respectivamente, e  <img src="https://latex.codecogs.com/svg.image?t^*" title="https://latex.codecogs.com/svg.image?t^*" /> é igual a  <img src="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" title="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" />  e é denominado valor crítico superior para a distribuição t com n-1 graus de liberdade,  <img src="https://latex.codecogs.com/svg.image?t(n-1)" title="https://latex.codecogs.com/svg.image?t(n-1)" />.
 
 ![confdiag.gif](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/confdiag.gif?raw=true)
 
