@@ -24,9 +24,9 @@ preview: 0
      
 
 
-<p style="text-align:center;"><img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/1-DP.png?raw=true" style="width:60%" > <br> 
+<p style="text-align:center;"><img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/2022-04-04-Covid-19-em-res%C3%ADduos/1-DP.png" style="width:60%" > <br> 
 
-<p style="text-align:center;"><img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/1-JC.png?raw=true" style="width:60%">    
+<p style="text-align:center;"><img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/pesquisa/2022-04-04-Covid-19-em-res%C3%ADduos/1-JC.png" style="width:60%">    
 
 <p> Muito obrigado por ler esse artigo. 
 
