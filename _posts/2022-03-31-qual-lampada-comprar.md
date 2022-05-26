@@ -2,7 +2,7 @@
 layout: post
 title:  "qual lâmpada comprar?"
 date:   2022-03-31 
-category: ciência de dados
+category: blog
 icon: www
 keywords: estatística, análise de dados, negócios
 image: lampadas.jpg

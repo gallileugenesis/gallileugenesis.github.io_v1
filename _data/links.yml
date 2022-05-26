@@ -1,6 +1,6 @@
 # blog page sections
-- name: ciência de dados
-  href: '/ciência de dados/'
+- name: blog
+  href: '/blog/'
 
 - name: projetos
   href: '/projetos/'
