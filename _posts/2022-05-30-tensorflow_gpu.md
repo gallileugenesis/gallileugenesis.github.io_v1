@@ -27,7 +27,7 @@ A melhor opção para fazer esse processo é por meio do ambiente Anaconda. Voc�
 
 Feito isso, abra o *Anaconda Navigator*, vá até *CMD.exe Prompt* e clique em *Launch*, como mostrado abaixo.
 
-<center><img src = >![image.png](attachment:image.png)
+<center><img src = "https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-05-30-tensorflow_gpu/anaconda.png?raw=true" width=500>
 
 ## 3º passo: crie um ambiente Anaconda
 
