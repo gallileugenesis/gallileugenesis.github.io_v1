@@ -11,17 +11,17 @@ preview: 0
 
 ## Introdução
 
-Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.html) vimos um visão geral sobre as CPUs e as GPUs. Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
+Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.html) vimos uma visão geral sobre as CPUs e as GPUs. Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
 
 O processo é simples, mas é preciso ficar atento com a compatibilidade de versões de todos os pacotes e softwares necessários. 
 
 ## 1º passo: baixar e instalar o Anacoda
 
-A melhor opção para fazer esse processo é por meio do ambiente Anaconda. Você pode baixa-lo clincando no link a seguir:
+A melhor opção para fazer esse processo é por meio do ambiente Anaconda. Você pode baixa-lo clicando no link a seguir:
 
 - [Anaconda](https://www.anaconda.com/)
 
-*Nota: Anaconda é uma plataforma de distribuição Python, de código aberto, e com uma série de ferramentas para o desenvilvimento de projetos em inteligencia artificial integradas*.
+*Nota: Anaconda é uma plataforma de distribuição Python, de código aberto, e com uma série de ferramentas para o desenvolvimento de projetos em inteligência artificial integradas*.
 
 ## 2º passo: abra o CMD.exe Prompt 
 
@@ -37,7 +37,7 @@ Feito isso, abra o *Anaconda Navigator*, vá até *CMD.exe Prompt* e clique em *
 
 Você deve garantir que o TensorFlow tenha a versão do Python compatível. A melhor maneira de fazer isso é criar um ambiente Anaconda. Cada ambiente que você cria pode ter sua própria versão Python, de drivers e bibliotecas Python. S
 
-O comando a seguir cria um ambinete chamado tensorflow para a versão python 3.9. Você pode nomea-lo como quiser. 
+O comando a seguir cria um ambiente chamado tensorflow para a versão python 3.9. Você pode nomeá-lo como quiser. 
 
 > conda create --name tensorflow python=3.9
 
@@ -67,14 +67,14 @@ Agora você pode iniciar o notebook Jupyter. Use o seguinte comando.
 
 > jupyter notebook
 
-Em seguda, copie o seguinte código em uma das célulos do jupyter noteook
+Em seguida, copie o seguinte código em uma das célulos do jupyter notebook
 
 
 ```python
 import sys
 import pip
 
-# checa se o pandas e sklearn já estão instaladas e as instalam, caso não. 
+# checa se o pandas e sklearn já estão instalados e as instalam, caso não. 
 Package = ['pandas', 'sklearn']
 for i in Package:
     if i not in sys.modules:
