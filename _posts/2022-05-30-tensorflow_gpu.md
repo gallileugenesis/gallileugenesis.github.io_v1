@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CPU vs GPU: uma visão geral"
+title:  "Como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows"
 date:   2022-05-24 00:00
 category: blog
 icon: www
@@ -11,7 +11,7 @@ preview: 0
 
 ## Introdução
 
-Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
+Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.html) vimos umas visão geral sobre as CPUs e as GPUs. Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
 
 O processo é simples, mas é preciso ficar atento com a compatibilidade de versões de todos os pacotes e softwares necessários. 
 
@@ -34,25 +34,35 @@ Feito isso, abra o *Anaconda Navigator*, vá até *CMD.exe Prompt* e clique em *
 Você deve garantir que o TensorFlow tenha a versão do Python compatível. A melhor maneira de fazer isso é criar um ambiente Anaconda. Cada ambiente que você cria pode ter sua própria versão Python, de drivers e bibliotecas Python. S
 
 O comando a seguir cria um ambinete chamado tensorflow para a versão python 3.9. Você pode nomea-lo como quiser. 
-conda create --name tensorflow python=3.9
+
+> conda create --name tensorflow python=3.9
+
 Para entrar neste ambiente, você deve usar o seguinte comando:
-conda activate tensorflow
+
+> conda activate tensorflow
+
 Vamos agora adicionar suporte ao Jupyter ao seu novo ambiente.
-conda install -c conda-forge nb_conda
+
+> conda install -c conda-forge nb_conda
+
 ## 4º passo: instale o TensorFlow para GPU e CPU
 
 O comando a seguir instala o TensorFlow para suporte a GPU. Todas as instalações de driver complexas devem ser tratadas por este comando.
-conda install -c anaconda tensorflow-gpu
+
+> conda install -c anaconda tensorflow-gpu
+
 ## 5º passo: registre seu ambiente
 
 O comando a seguir registra seu ambiente tensorflow. Novamente, certifique-se de "conda ativar" seu novo ambiente tensorflow.
 
-python -m ipykernel install --user --name tensorflow --display-name "Python 3.9 (tensorflow)"
+> python -m ipykernel install --user --name tensorflow --display-name "Python 3.9 (tensorflow)"
 
 ## 6º passo: teste seu ambiente
 
 Agora você pode iniciar o notebook Jupyter. Use o seguinte comando.
-jupyter notebook
+
+> jupyter notebook
+
 Em seguda, copie o seguinte código em uma das célulos do jupyter noteook
 
 
