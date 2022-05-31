@@ -15,6 +15,12 @@ Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.htm
 
 O processo é simples, mas é preciso ficar atento com a compatibilidade de versões de todos os pacotes e softwares necessários. 
 
+## Pré-requisito: 
+É necessário ter instalados na sua máquina: 
+
+- [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
+- [cuDNN](https://developer.nvidia.com/cudnn)
+
 ## 1º passo: baixar e instalar o Anacoda
 
 A melhor opção para fazer esse processo é por meio do ambiente Anaconda. Você pode baixa-lo clicando no link a seguir:
