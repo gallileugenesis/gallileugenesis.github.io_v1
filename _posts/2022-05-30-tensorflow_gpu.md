@@ -11,7 +11,7 @@ preview: 0
 
 ## Introdução
 
-Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.html) vimos umas visão geral sobre as CPUs e as GPUs. Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
+Em um [artigo anterior](https://gallileugenesis.github.io/blog/2022/CPUvsGPU.html) vimos um visão geral sobre as CPUs e as GPUs. Nesse artigo você verá como instalar e configurar o Tensorflow/Keras com suporte para CPU e GPU no Windows.
 
 O processo é simples, mas é preciso ficar atento com a compatibilidade de versões de todos os pacotes e softwares necessários. 
 
@@ -27,7 +27,7 @@ A melhor opção para fazer esse processo é por meio do ambiente Anaconda. Voc�
 
 Feito isso, abra o *Anaconda Navigator*, vá até *CMD.exe Prompt* e clique em *Launch*, como mostrado abaixo.
 
-![image.png](attachment:image.png)
+<center><img src = >![image.png](attachment:image.png)
 
 ## 3º passo: crie um ambiente Anaconda
 
@@ -70,7 +70,7 @@ Em seguda, copie o seguinte código em uma das célulos do jupyter noteook
 import sys
 import pip
 
-# checa se pandas e sklearn já estão instaladas e as instalam, caso não. 
+# checa se o pandas e sklearn já estão instaladas e as instalam, caso não. 
 Package = ['pandas', 'sklearn']
 for i in Package:
     if i not in sys.modules:
