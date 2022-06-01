@@ -31,10 +31,10 @@ A melhor opção para fazer esse processo é por meio do ambiente Anaconda. Voc�
 
 ## 2º passo: abra o CMD.exe Prompt 
 
-Feito isso, abra o *Anaconda Navigator*, vá até *CMD.exe Prompt* e clique em *Launch*, como mostrado abaixo.
+Feito isso, na barra de pesquisa do windows digite anaconda prompt, como mostrado abaixo. 
 
 <p align="center">
-<img src = "https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-05-30-tensorflow_gpu/anaconda.png?raw=true" width="600">
+<img src = "https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-05-30-tensorflow_gpu/aanconda_prompt.png?raw=true" width="600">
 </p>
 
 
