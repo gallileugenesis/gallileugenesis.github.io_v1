@@ -23,7 +23,7 @@ Entre os dias 21 de Fevereiro e 13 de Maio de 2022 participei de uma intensa sel
 
 O programa era destinado ao preenchimento das seguintes vagas dentro da organização:
 
-| - **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas.|
+- **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas.|
 
 - **DESENVOLVIMENTO**: Área responsável pelo desenvolvimento, manutenção e renovação dos sistemas, garantindo a eficiência, qualidade, flexibilidade nas áreas de negócio, produtos e corporativas. O profissional poderá atuar nas diversas estruturas de desenvolvimento: Canais, Core Banking, Segmentos Pessoa Física e Pessoa Jurídica, SafraPay, Banco de Atacado e Investimentos e Financeira. Somado à aplicação da tecnologia nos produtos e serviços do Banco, o Technee irá desenvolver conhecimentos das áreas de negócios. |
 
@@ -81,13 +81,18 @@ Para o desenvolimentos das soluções, as equipes poderiam usar as APIs disponí
 
 ## Nossa Solução  
 
-Com base no desafio apresentado pela instituição, a solução proposta por minha equipe (TIME 14), foi o desenvolvimento de um app, chamado OpenCredit, que formalmente seria uma startup do Banco Safra, cujo objetivo seria a análise e comparação das diversas opções de crédito do mercado, e a apresentação dos melhores alternativas customizadas de acordo com o perfil de cada cliente. O negócio estaria focado prioritariamente, mas não exclusivamente, nas micro e pequenas empresas. 
+Com base no desafio apresentado pela instituição, a solução proposta por minha equipe (TIME 14), foi o desenvolvimento de um aplicativo, chamado OpenCredit, que formalmente seria uma startup do Banco Safra, cujo objetivo seria a análise e comparação das diversas opções de crédito do mercado, e a apresentação dos melhores alternativas customizadas de acordo com o perfil de cada cliente. O negócio estaria focado prioritariamente, mas não exclusivamente, nas micro e pequenas empresas. 
+
+A Figura 1 mostra o design do app OpenCredit
 
 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/open_credit.png?raw=true" alt="drawing" width="600"/>
-<br>
+<br> 
+Figura 1: Design do app OpenCredit.
+</p>
 
+A motivação para a proposta da solução e a segmentação de mercado são justificadas pelos dados levantados 
 
 
 Muito obrigado por ler esse artigo. 
