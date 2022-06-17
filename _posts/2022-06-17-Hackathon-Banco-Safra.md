@@ -32,6 +32,14 @@ O programa era destinado ao preenchimento das seguintes vagas dentro da organiza
 - **SEGURANÇA DA INFORMAÇÃO**:  Área que tem como missão entregar e suportar soluções e controles de alto nível, sempre com qualidade, segurança, confiabilidade e resiliência, assegurando a proteção das informações e dos canais digitais contra uma ampla variedade de ameaças humanas, tecnológicas e cibernéticas.
 
 
+A área para a qual me candidatei foi **RENOVAÇÃO TECNOLÓGICA E INOVAÇÃO**.
+
+A fase mais interessante e estimulante da seleção foi o hackathon (aliás, deve-se parabenizar o Banco Safra pela ideia de colocar um desafio dentro do processo seletivo). 
+
+O hackathon estava relacionado aos desafios e oportunidades que o recente ambiente OpenBanking impunha às instituições financeiras. 
+
+Desse modo, teve-se as seguintes pontuações:
+
 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-24-05-CPUvsGPU/CPU.jpg?raw=true" alt="drawing" width="600"/>
