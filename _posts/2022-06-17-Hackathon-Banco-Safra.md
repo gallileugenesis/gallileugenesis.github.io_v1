@@ -85,11 +85,8 @@ Com base no desafio apresentado pela instituição, a solução proposta por min
 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-24-05-CPUvsGPU/CPU.jpg?raw=true" alt="drawing" width="600"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/open_credit.png?raw=true" alt="drawing" width="600"/>
 <br>
-CPU intel core-i7. Fonte:  <a href="https://arstechnica.com/gadgets/2022/03/intels-core-i7-12700-tested-top-speeds-or-power-efficiency-pick-one/">arstechnica</a> 
-</p>
-
 
 
 
