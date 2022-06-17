@@ -81,7 +81,7 @@ Para o desenvolimentos das soluções, as equipes poderiam usar as APIs disponí
 
 ## Nossa Solução  
 
-Com base no desafio apresentado pela instituição, a solução proposta por minha equipe (TIME 14), foi o desenvolvimento de um aplicativo, chamado OpenCredit, que formalmente seria uma startup do Banco Safra, cujo objetivo seria a análise e comparação das diversas opções de crédito do mercado, e a apresentação dos melhores alternativas customizadas de acordo com o perfil de cada cliente. O negócio estaria focado prioritariamente, mas não exclusivamente, nas micro e pequenas empresas. 
+Com base no desafio apresentado pela instituição, a solução proposta por minha equipe (TIME 14), foi o desenvolvimento de um aplicativo, chamado **OpenCredit**, que formalmente seria uma startup do Banco Safra, cujo objetivo seria a análise e comparação das diversas opções de crédito do mercado, e a apresentação dos melhores alternativas customizadas de acordo com o perfil de cada cliente. O negócio estaria focado prioritariamente, mas não exclusivamente, nas micro e pequenas empresas. 
 
 A Figura 1 mostra o design do app OpenCredit.
 
@@ -100,13 +100,23 @@ A motivação para a proposta da solução e a segmentação de mercado são jus
 Figura 2: Números de mercado que justificam o modelo de negócio baseado nas micro e pequenas empresas.  
 </p>
 
-Como a Figura 1 mostra, a quantidade de micro e pequenas empresas abertas no país tem crescido nos últimos anos, assim como o mercado de crédito destinado a esse tipo de empreendimento. No entanto, ainda há muita dificuldade para essas empresas conseguirem ter acesso a esse crédito, principalmente por meios digitais,  além da grande falta de conhecimento relacionada às opções de crédito que melhor se adequam ao perfil do empreendimento. 
+Como a Figura 2 mostra, a quantidade de micro e pequenas empresas abertas no país tem crescido nos últimos anos, assim como o mercado de crédito destinado a esse tipo de empreendimento. No entanto, ainda há muita dificuldade para essas empresas conseguirem ter acesso a esse crédito, principalmente por meios digitais,  além da grande falta de conhecimento relacionada às opções de crédito que melhor se adequam ao perfil do empreendimento. 
 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="600"/>
 <br> 
 Figura 3: Análise de mercado mostrando as principais dores , baseada em dados de uma pesquisa realizada por nossa equipe com mais de 20 empreendedores.   
 </p>
+
+## Porque o projeto é útil
+
+Para ter acesso à facilidade proporcionada pelo app em encontrar as melhores ofertas de crédito, o usuário deve aceitar o termo de compartilhamento de dados bancários do OpenBanking. O Safra então terá acesso aos dados de clientes das mais variadas instituições financeiras do país, permitindo por exemplo:
+- Obter insumos para automatização das análises de risco;
+- Aumentar o portfólio de clientes e nichos de mercado (Estudos de prospecção);
+- Mapeamento de mercado mais assertivo (segmento e setores de mercado, qualidade de atendimento, taxas…);
+- Oferta de produtos e serviços personalizados de acordo com o perfil e histórico do cliente;
+- Valorização do Cliente baseado em seus dados compartilhados;
+- Fortalecer as áreas de negócio e tomadas de decisão para o Banco Safra.
 
 
 Muito obrigado por ler esse artigo. 
