@@ -18,12 +18,12 @@ Entre os dias 21 de Fevereiro e 13 de Maio de 2022 participei de uma intensa sel
 - Check up de Competências - entrevistas online
 - Hackathon (Desafio Safra) - online
 - Entrevistas individuais - online
-- Contratação - previsão de Maio/22 |
+- Contratação - previsão de Maio/22 
 
 
 O programa era destinado ao preenchimento das seguintes vagas dentro da organização:
 
-- **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas.|
+| - **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas.|
 
 - **DESENVOLVIMENTO**: Área responsável pelo desenvolvimento, manutenção e renovação dos sistemas, garantindo a eficiência, qualidade, flexibilidade nas áreas de negócio, produtos e corporativas. O profissional poderá atuar nas diversas estruturas de desenvolvimento: Canais, Core Banking, Segmentos Pessoa Física e Pessoa Jurídica, SafraPay, Banco de Atacado e Investimentos e Financeira. Somado à aplicação da tecnologia nos produtos e serviços do Banco, o Technee irá desenvolver conhecimentos das áreas de negócios. 
 
