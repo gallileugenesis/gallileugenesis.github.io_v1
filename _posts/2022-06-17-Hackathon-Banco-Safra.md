@@ -103,7 +103,7 @@ Figura 2:
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 3:  
+Figura 3: Análise de mercado, c  
 </p>
 
 

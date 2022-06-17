@@ -15,6 +15,12 @@ Essa empresa recebe então os dados do tempo de duração, em horas,  de lâmpad
 
 ![df.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme)
 
+<p align="center">
+<img src="https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme" alt="drawing" width="600"/>
+<br> 
+Figura 3: Análise de mercado, c  
+</p>
+
 Ao todo, o banco de dados contém 40 entradas com os respectivos tempos de duração das lâmpadas A e B. 
 
 A questão que se levanta é: qual a melhor opção de compra para a empresa, levando-se em conta somente os dados de tempo de tempo de duração, mostrados acima?
