@@ -83,7 +83,7 @@ Para o desenvolimentos das soluções, as equipes poderiam usar as APIs disponí
 
 Com base no desafio apresentado pela instituição, a solução proposta por minha equipe (TIME 14), foi o desenvolvimento de um aplicativo, chamado OpenCredit, que formalmente seria uma startup do Banco Safra, cujo objetivo seria a análise e comparação das diversas opções de crédito do mercado, e a apresentação dos melhores alternativas customizadas de acordo com o perfil de cada cliente. O negócio estaria focado prioritariamente, mas não exclusivamente, nas micro e pequenas empresas. 
 
-A Figura 1 mostra o design do app OpenCredit
+A Figura 1 mostra o design do app OpenCredit.
 
 
 <p align="center">
@@ -92,7 +92,7 @@ A Figura 1 mostra o design do app OpenCredit
 Figura 1: Design do app OpenCredit.
 </p>
 
-A motivação para a proposta da solução e a segmentação de mercado são justificadas pelos dados levantados 
+A motivação para a proposta da solução e a segmentação de mercado são justificadas pelos dados levantados por nossa equipe e resumidos nas Figuras 2 e 3, abaixo. 
 
 
 Muito obrigado por ler esse artigo. 
