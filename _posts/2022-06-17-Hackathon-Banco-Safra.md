@@ -105,7 +105,7 @@ Como a Figura 2 mostra, a quantidade de micro e pequenas empresas abertas no pa�
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 3: Análise de mercado mostrando as principais dores , baseada em dados de uma pesquisa realizada por nossa equipe com mais de 20 empreendedores.   
+Figura 3: Análise de mercado mostrando as principais dores relatadas por 20 empreendedores que responderam a um questionário formulado por nossa equipe.  
 </p>
 
 ## Porque o projeto é útil
