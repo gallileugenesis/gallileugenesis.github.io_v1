@@ -102,6 +102,8 @@ Figura 2: Números de mercado que justificam o modelo de negócio baseado nas mi
 
 Como a Figura 2 mostra, a quantidade de micro e pequenas empresas abertas no país tem crescido nos últimos anos, assim como o mercado de crédito destinado a esse tipo de empreendimento. No entanto, ainda há muita dificuldade para essas empresas conseguirem ter acesso a esse crédito, principalmente por meios digitais,  além da grande falta de conhecimento relacionada às opções de crédito que melhor se adequam ao perfil do empreendimento. 
 
+Já na Figura 3, tem-se um resumo estatístico mostrando as principais dores relatadas por 20 empreendedores que responderam a um questionário formulado por nossa equipe. 
+
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="600"/>
 <br> 
