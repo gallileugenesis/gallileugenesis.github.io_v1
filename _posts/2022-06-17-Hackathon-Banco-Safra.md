@@ -21,7 +21,7 @@ Entre os dias 21 de Fevereiro e 13 de Maio de 2022 participei de uma intensa sel
 
 O programa era destinado ao preenchimento das seguintes vagas dentro da organização:
 
-- **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas. 
+- **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas.|
 
 - **DESENVOLVIMENTO**: Área responsável pelo desenvolvimento, manutenção e renovação dos sistemas, garantindo a eficiência, qualidade, flexibilidade nas áreas de negócio, produtos e corporativas. O profissional poderá atuar nas diversas estruturas de desenvolvimento: Canais, Core Banking, Segmentos Pessoa Física e Pessoa Jurídica, SafraPay, Banco de Atacado e Investimentos e Financeira. Somado à aplicação da tecnologia nos produtos e serviços do Banco, o Technee irá desenvolver conhecimentos das áreas de negócios. 
 
@@ -36,9 +36,7 @@ A área para a qual me candidatei foi **RENOVAÇÃO TECNOLÓGICA E INOVAÇÃO**.
 
 A fase mais interessante e estimulante da seleção foi o hackathon (aliás, deve-se parabenizar o Banco Safra pela ideia de colocar um desafio dentro do processo seletivo). 
 
-O hackathon estava relacionado aos desafios e oportunidades que o recente ambiente OpenBanking impunha às instituições financeiras. 
-
-Desse modo, teve-se as seguintes pontuações:
+O hackathon estava relacionado aos desafios e oportunidades que o recente ambiente OpenBanking impunha às instituições financeiras. Desse modo, teve-se as seguintes pontuações:
 
 ## Motivação
 
