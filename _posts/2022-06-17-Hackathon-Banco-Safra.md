@@ -11,13 +11,15 @@ preview: 0
 
 Entre os dias 21 de Fevereiro e 13 de Maio de 2022 participei de uma intensa seleção para o **Programa Technee Banco Safra 2022**. O processo seletivo foi composto pelas seguintes etapas: 
 
+|
 - Inscrições
 - Teste online(inglês e lógica)
 - Fit Cultural - provas online
 - Check up de Competências - entrevistas online
 - Hackathon (Desafio Safra) - online
 - Entrevistas individuais - online
-- Contratação - previsão de Maio/22
+- Contratação - previsão de Maio/22 
+|
 
 O programa era destinado ao preenchimento das seguintes vagas dentro da organização:
 
@@ -63,6 +65,19 @@ Como podemos inovar e nos diferenciar criando experiências simples, transparent
 - Preocupações Operacionais (Disponibilidade e SLAs)
 - Roadmap de Evolução do Produto
 4. Código fonte completo produzido na solução proposta para o problema abordado. Interface web navegável da solução.
+
+## Indicadores – Critérios de Avaliação
+- Ideação
+- Abrangência da Solução
+- Completude da Solução
+- Inovação
+- Uso/Aplicação de Tecnologias
+- Profundidade Técnica
+- Acessibilidade
+- Arquitetura de referencia
+- Conceitos de SER (Engenharia de Confiabilidade)
+
+Para o desenvolimentos das soluções, as equipes poderiam usar as APIs disponíveis no [GitHub do Open Banking](https://openbanking-brasil.github.io/areadesenvolvedor).
 
 
 <p align="center">
