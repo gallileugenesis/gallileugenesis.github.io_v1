@@ -94,6 +94,18 @@ Figura 1: Design do app OpenCredit.
 
 A motivação para a proposta da solução e a segmentação de mercado são justificadas pelos dados levantados por nossa equipe e resumidos nas Figuras 2 e 3, abaixo. 
 
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado1.png?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 2:  
+</p>
+
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 3:  
+</p>
+
 
 Muito obrigado por ler esse artigo. 
 
