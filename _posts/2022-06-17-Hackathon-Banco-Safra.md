@@ -97,13 +97,15 @@ A motivação para a proposta da solução e a segmentação de mercado são jus
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado1.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 2:  
+Figura 2: Números de mercado que justificam o modelo de negócio baseado nas micro e pequenas empresas.  
 </p>
+
+Como a Figura 1 mostra, a quantidade de micro e pequenas empresas abertas no país tem crescido nos últimos anos, assim como o mercado de crédito destinado a esse tipo de empreendimento. No entanto, ainda há muita dificuldade para essas empresas conseguirem ter acesso a esse crédito, principalmente por meios digitais,  além da grande falta de conhecimento relacionada às opções de crédito que melhor se adequam ao perfil do empreendimento. 
 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 3: Análise de mercado, c  
+Figura 3: Análise de mercado mostrando as principais dores , baseada em dados de uma pesquisa realizada por nossa equipe com mais de 20 empreendedores.   
 </p>
 
 
