@@ -2,7 +2,7 @@
 layout: post
 title:  "Hackathon Banco Safra 2022"
 date:   2022-06-17 00:00
-category: blog
+category: projetos
 icon: www
 keywords: Hackathon, inovação, ciência de dados, openbanking
 image: 2022-06-17-Hackathon-Banco-Safra/banco_safra.jpg
@@ -23,13 +23,14 @@ O programa era destinado ao preenchimento das seguintes vagas dentro da organiza
 
 - **ARQUITETURA**: Área responsável pela gestão de serviços, sistemas e softwares da área de Tecnologia e pela mitigação de impactos em estratégias de mudanças tecnológicas. Curioso, estudioso e atento às tendências do mercado, esse profissional deverá compreender a aplicabilidade, viabilidade de implantação, uso e manutenção das diversas tecnologias dentro do ambiente do banco. Imprescindível conhecimento em engenharia de software e desenvolvimento de sistemas. 
 
-- **DESENVOLVIMENTO**: Área responsável pelo desenvolvimento, manutenção e renovação dos sistemas, garantindo a eficiência, qualidade, flexibilidade nas áreas de negócio, produtos e corporativas. O profissional poderá nas diversas estruturas de desenvolvimento: Canais, Core Banking, Segmentos Pessoa Física e Pessoa Jurídica, SafraPay, Banco de Atacado e Investimentos e Financeira. Somado à aplicação da tecnologia nos produtos e serviços do Banco, o Technee irá desenvolver conhecimentos das áreas de negócios. 
+- **DESENVOLVIMENTO**: Área responsável pelo desenvolvimento, manutenção e renovação dos sistemas, garantindo a eficiência, qualidade, flexibilidade nas áreas de negócio, produtos e corporativas. O profissional poderá atuar nas diversas estruturas de desenvolvimento: Canais, Core Banking, Segmentos Pessoa Física e Pessoa Jurídica, SafraPay, Banco de Atacado e Investimentos e Financeira. Somado à aplicação da tecnologia nos produtos e serviços do Banco, o Technee irá desenvolver conhecimentos das áreas de negócios. 
 
 - **INFRAESTRUTURA E GOVERNANÇA**: A estrutura de Governança de Tecnologia, tem foco no acompanhamento e gestão de incidentes, problemas, mudanças e níveis de serviço, trazendo soluções e aplicando os conceitos da metodologia ITIL. Organização, atenção aos detalhes e capacidade de análise são competências importantes para este profissional. Imprescindível conhecimento em ITIL | Desejável Cobit 
 
 - **RENOVAÇÃO TECNOLÓGICA E INOVAÇÃO**: Renovação Tecnológica e Inovação são as forças motoras que aceleram a transformação digital do Safra. Essa área é responsável por projetos estruturantes, que envolvem tecnologias de ponta, como por exemplo Big Data, Pix, Open Banking, Cloud, Qualidade e Robôs de automação de execução de processos (RPA). Área também responsável por buscar soluções inovadoras, avaliar e investir em startups que resolvam problemas ou contribuam para a criação de novos produtos e serviços, provendo as melhores soluções para nossos clientes.  
 
-- **SEGURANÇA DA INFORMAÇÃO**:  Área que tem como missão entregar e suportar soluções e controles de alto nível, sempre com qualidade, segurança, confiabilidade e resiliência, assegurando a proteção das informações e dos canais digitais contra uma ampla variedade de ameaças humanas, tecnológicas e cibernéticas. 
+- **SEGURANÇA DA INFORMAÇÃO**:  Área que tem como missão entregar e suportar soluções e controles de alto nível, sempre com qualidade, segurança, confiabilidade e resiliência, assegurando a proteção das informações e dos canais digitais contra uma ampla variedade de ameaças humanas, tecnológicas e cibernéticas.
+
 
 
 <p align="center">
