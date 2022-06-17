@@ -11,15 +11,15 @@ preview: 0
 
 Entre os dias 21 de Fevereiro e 13 de Maio de 2022 participei de uma intensa seleção para o **Programa Technee Banco Safra 2022**. O processo seletivo foi composto pelas seguintes etapas: 
 
-|
+
 - Inscrições
 - Teste online(inglês e lógica)
 - Fit Cultural - provas online
 - Check up de Competências - entrevistas online
 - Hackathon (Desafio Safra) - online
 - Entrevistas individuais - online
-- Contratação - previsão de Maio/22 
-|
+- Contratação - previsão de Maio/22 |
+
 
 O programa era destinado ao preenchimento das seguintes vagas dentro da organização:
 
