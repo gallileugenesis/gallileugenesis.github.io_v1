@@ -12,13 +12,13 @@ preview: 0
 Entre os dias 21 de Fevereiro e 13 de Maio de 2022 participei de uma intensa seleção para o **Programa Technee Banco Safra 2022**. O processo seletivo foi composto pelas seguintes etapas: 
 
 
-- Inscrições
+|- Inscrições
 - Teste online(inglês e lógica)
 - Fit Cultural - provas online
 - Check up de Competências - entrevistas online
 - Hackathon (Desafio Safra) - online
 - Entrevistas individuais - online
-- Contratação - previsão de Maio/22 
+- Contratação - previsão de Maio/22 |
 
 
 O programa era destinado ao preenchimento das seguintes vagas dentro da organização:
@@ -78,6 +78,10 @@ Como podemos inovar e nos diferenciar criando experiências simples, transparent
 - Conceitos de SER (Engenharia de Confiabilidade)
 
 Para o desenvolimentos das soluções, as equipes poderiam usar as APIs disponíveis no [GitHub do Open Banking](https://openbanking-brasil.github.io/areadesenvolvedor).
+
+## Nossa Solução  
+
+Com base no desafio apresentado pela instituição, a solução proposta por minha equipe (TIME 14), foi o desenvolvimento de um app, chamado OpenCredit, que formalmente seria uma startup do Banco Safra, cujo objetivo seria a análise e comparação das diversas opções de crédito do mercado, e a apresentação dos melhores alternativas customizadas de acordo com o perfil de cada cliente. O negócio estaria focado prioritariamente, mas não exclusivamente, nas micro e pequenas empresas. 
 
 
 <p align="center">
