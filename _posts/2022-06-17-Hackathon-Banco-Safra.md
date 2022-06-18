@@ -136,12 +136,20 @@ Os aspectos relativos à governança, por meio da metodologia ITIL, e de infraes
 Figura 5: Esquemas de governança (metodologia ITIL) e infraestrutura do OpenCredit. 
 </p>
 
-Outro ítem 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/6-infra.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 6: Mais detalhes da infraestrutura do OpenCredit.
 </p>
+
+Outro ponto importante a se destacar na solução apresentada está relacionado a segurança de informação, como mostra, resumidamente, a Figura 7. 
+
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/6-infra.png?raw=true" alt="drawing" width="700"/>
+<br> 
+Figura 7:  
+</p>
+
 
 Muito obrigado por ler esse artigo. 
 
