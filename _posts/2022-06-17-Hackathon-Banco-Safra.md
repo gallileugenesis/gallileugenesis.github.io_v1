@@ -169,6 +169,12 @@ A Figura 9 mostra alguns aspectos relacionados ao desenvolvimento da solução, 
 Figura 9: Resumo dos aspectos relacionados ao desenvolvimento da OpenCredit.
 </p>
 
+As Técnicas e Tecnologias utilizadas
+
+* Python
+* SQL
+* Orientação a objeto
+
 Alguns detalhes das funcionalidades do app, encontrada nos arquivos disponíveis no [Github](https://github.com/gallileugenesis/Hackathon_Safra).
 
 
@@ -186,11 +192,6 @@ Rotinas.login(login, senha, status) -> login do app
 
 Rotinas.cadastro() -> cadastro de novos usuários
 
-## Técnicas e Tecnologias utilizadas
-
-* Python
-* SQL
-* Orientação a objeto
 
 ## Contribuidores
 
