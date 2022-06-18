@@ -145,9 +145,9 @@ Figura 6: Mais detalhes da infraestrutura do OpenCredit.
 Outro ponto importante a se destacar na solução apresentada está relacionado a segurança de informação, como mostra, resumidamente, a Figura 7. 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/6-infra.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/7-seg_info.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 7:  
+Figura 7:Resumo dos aspectos relativos à segurança da informação.
 </p>
 
 
