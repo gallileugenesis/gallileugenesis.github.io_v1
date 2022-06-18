@@ -14,7 +14,7 @@ Imaginem a seguinte situação: uma empresa está se preparando para comprar uma
 Essa empresa recebe então os dados do tempo de duração, em horas,  de lâmpadas de dois fabricantes diferentes, A e B, como mostra a tabela abaixo. 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/1-tab.png?raw=true" alt="drawing" width="400"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/1-tab.png?raw=true" alt="drawing" width="300"/>
 <br> 
 Figura 3: Análise de mercado, c  
 </p>
