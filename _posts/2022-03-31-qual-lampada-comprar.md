@@ -27,6 +27,12 @@ Bem, uma análise estatística do conjunto de dados pode trazer informações va
 
 Bem, vamos começar com uma descrição estatística básica dos dados:
 
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/2-tab2.png?raw=true" alt="drawing" width="300"/>
+<br> 
+Figura 2: Descrição estatística básica dos dados.
+</p>
+
 |       |      A      |      B      |
 | :---: | :---------: | :---------: |
 | count |  40.000000  |  40.000000  |
