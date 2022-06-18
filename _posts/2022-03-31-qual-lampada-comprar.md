@@ -5,7 +5,7 @@ date:   2022-03-31
 category: blog
 icon: www
 keywords: estatística, análise de dados, negócios
-image: lampadas.jpg
+image: 2022-03-31-qual-lampada-comprar/lampadas.jpg
 preview: 0
 ---
 
@@ -13,10 +13,8 @@ Imaginem a seguinte situação: uma empresa está se preparando para comprar uma
 
 Essa empresa recebe então os dados do tempo de duração, em horas,  de lâmpadas de dois fabricantes diferentes, A e B, como mostra a tabela abaixo. 
 
-![df.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme)
-
 <p align="center">
-<img src="https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme" alt="drawing" width="400"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/1-tab.png?raw=true" alt="drawing" width="400"/>
 <br> 
 Figura 3: Análise de mercado, c  
 </p>
