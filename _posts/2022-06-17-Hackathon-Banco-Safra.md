@@ -191,6 +191,7 @@ A **[api_openbanking.py](api_openbanking.py)** consiste em um arquivo python com
 
 - ***Rotinas.cadastro()***: cadastro de novos usuários |
 
+Por fim, o projeto OpenCredit foi desenvolvido pela seguinte equipe: 
 
 ## Contribuidores
 
