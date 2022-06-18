@@ -180,9 +180,9 @@ Alguns detalhes das funcionalidades do app, encontrada nos arquivos disponíveis
 
 > A [api_openbanking.py](api_openbanking.py) consiste em um arquivo python com as seguintes classes/ funções:
 
-Openbanking.consulta_api() -> responsável pela coleta e tratamento dos dados abertos de serviços de empréstimos e financiamentos disponibilizados pelas instituições financeiras participantes do OpenBanking
+- Openbanking.consulta_api() -> responsável pela coleta e tratamento dos dados abertos de serviços de empréstimos e financiamentos disponibilizados pelas instituições financeiras participantes do OpenBanking
 
-Openbanking.menor_taxa(lista_servicos) -> lista das ofertas de crédito listadas da menor para a maior taxa
+Openbanking.menor_taxa(lista_servicos) -> lista das ofertas de crédito listadas da menor para a maior taxa |
 
 Openbanking.Filtro_servico(Tipo_servico) -> lista das ofertas de crédito filtradas por tipo de serviço
 
