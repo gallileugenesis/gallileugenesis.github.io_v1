@@ -120,6 +120,7 @@ O OpenCredit têm suas funcionalidades totalmente inseridas no ecossistema open 
 - Valorização do Cliente baseado em seus dados compartilhados;
 - Fortalecer as áreas de negócio e tomadas de decisão para o Banco Safra.
 
+## Detalhes técnicos da solução 
 Na Figura 4 tem-se a análise SWOT mostrando as forças, fraquezas, oportunidades e ameaças relacionadas ao projeto OpenCredit.  
 
 <p align="center">
@@ -158,7 +159,47 @@ Do ponto de vista dos processos de inovação, o OpenCredit traz uma série de p
 Figura 8: Processos de inovação gerados pelo OpenCredit. 
 </p>
 
-Já para o Banco Safra, o OpenCredit se constitui como uma nova fonte de dados Open Banking, gerando um novo canal para desenvolvimento de negócios e fortalecimento de parcerias. Adicionalmente, o app pode ser considerado um nova plataforma digital passível de fácil integração com outras áreas de tecnologia do banco Safra, como mostra a Figura 8.
+Já para o Banco Safra, o OpenCredit se constitui como uma nova fonte de dados Open Banking, gerando um novo canal para desenvolvimento de negócios e fortalecimento de parcerias. Adicionalmente, o app pode ser considerado um nova plataforma digital passível de fácil integração com outras áreas de tecnologia da instituição, como mostra a Figura 8.
+
+
+
+## Funcionalidades
+
+A [api_openbanking.py](api_openbanking.py) consiste em um arquivo python com as seguintes classes/ funções:
+
+Openbanking.consulta_api() -> responsável pela coleta e tratamento dos dados abertos de serviços de empréstimos e financiamentos disponibilizados pelas instituições financeiras participantes do OpenBanking
+
+Openbanking.menor_taxa(lista_servicos) -> lista das ofertas de crédito listadas da menor para a maior taxa
+
+Openbanking.Filtro_servico(Tipo_servico) -> lista das ofertas de crédito filtradas por tipo de serviço
+
+Rotinas.simulador_juros(credito, entrada, periodo, juros) -> simulação de crédito de acordo com valor, entrada e número de parcelas desejadas
+
+Rotinas.login(login, senha, status) -> login do app
+
+Rotinas.cadastro() -> cadastro de novos usuários
+
+## Técnicas e Tecnologias utilizadas
+
+* Python
+* SQL
+* Orientação a objeto
+
+## Contribuidores
+
+Barbara Bernardi/
+Cleyson Teixeira/
+Daniel Rezende/
+Gabriel P. Assis/
+Gallileu Genesis/
+
+## Desenvolvedores:
+André Tsuji/
+Gabriel Veronezzi/
+Leonardo Carvalho
+
+Todo o projeto e seus detalhes estão disponíveis no Github, que você pode acessar, clicando [aqui](https://github.com/gallileugenesis/Hackathon_Safra).
+
 
 Muito obrigado por ler esse artigo. 
 
