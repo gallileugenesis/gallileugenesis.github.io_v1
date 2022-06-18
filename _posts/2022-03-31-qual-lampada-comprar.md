@@ -35,7 +35,11 @@ Figura 2: Descrição estatística básica dos dados.
 
 O que esses dados nos dizem? Bom, primeiro, a média de duração da lâmpada A é de 909,65 horas, ao passo que a lâmpada B dura, em média, 1018,35 horas, como também está mostrado na figura abaixo. Isso significa que, para esse conjunto de dados,  as lâmpadas do tipo B duram em média, 12% a mais do que as lâmpadas A.  
 
-![tempo_medio.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/tempo_medio.png?raw=truestyle=centerme)
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/3-count-temp.png?raw=true" alt="drawing" width="300"/>
+<br> 
+Figura 3: Tempo médio de duração, em horas, das lâmpadas A e B. 
+</p>
 
 Então devemos escolher a lâmpada B, não é? Bem... Não tão depressa. A média é uma medida que pode te enganar em algumas ocasiões. Ela, por si só, embora as vezes deem indicações corretas, não deve embasar jamais suas decisões.
 
@@ -45,7 +49,12 @@ Sigamos com a análise e olhemos agora para os valores mínimos observados. No c
 
 Para analisar melhor os quartis, vamos recorrer ao boxplot desses dados.
 
-![boxplot.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/boxplot.png?raw=truestyle=centerme)
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/4-box-plot.png?raw=true" alt="drawing" width="300"/>
+<br> 
+Figura 4: Boxplot do tempo de duração das lâmpadas A e B. 
+</p>
+
 
 A figura do boxplot ilustra o que já temos discutido com relação a média, desvio padrão, valores máximos e mínimos. Até aqui, todos os indícios nos levam a crer que a Lâmpada B é a melhor opção. Mas, sigamos com a análise.
 
