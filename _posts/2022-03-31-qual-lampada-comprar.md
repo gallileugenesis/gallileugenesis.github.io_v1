@@ -80,7 +80,7 @@ Comumente se usa intervalos de confiança de 99% e 95%.  Por exemplo, quando diz
 
 Quando não conhecemos nada a respeito do comportamento de uma dada população, ou seja, quando não conhecemos os parâmetros populacionais, e dispomos somente das amostras de uma população, como é o caso na maioria das aplicações práticas e também no nosso exemplo a respeito do tempo de duração das lâmpadas, precisamos recorrer a   [Distribuição t de Student](https://pt.wikipedia.org/wiki/Distribuição_t_de_Student) para encontrar o intervalo de confiança. 
 
-Desse modo, para uma população com média  (<img src="https://latex.codecogs.com/svg.image?\mu" title="https://latex.codecogs.com/svg.image?\mu" />)  e desvio padrão  (<img src="https://latex.codecogs.com/svg.image?\sigma" title="https://latex.codecogs.com/svg.image?\sigma" />)  desconhecidos, um intervalo de confiança, com um nível de confiança IC, para a média populacional, com base em uma amostra aleatória simples (simple random sample, SRS) de tamanho n, é dado por,
+Desse modo, para uma população com média  (<img src="https://latex.codecogs.com/svg.image?\mu" title="https://latex.codecogs.com/svg.image?\mu" />)  e desvio padrão  (<img src="https://latex.codecogs.com/svg.image?\sigma" title="https://latex.codecogs.com/svg.image?\sigma" />)  desconhecidos, o intervalo de confiança IC, com um nível de confiança C, para a média populacional, com base em uma amostra aleatória simples (simple random sample, SRS) de tamanho n, é dado por,
 
 
 <img src="https://latex.codecogs.com/svg.image?IC&space;=&space;\overline{x}&space;\pm&space;t^*\dfrac{s}{\sqrt&space;n}" title="https://latex.codecogs.com/svg.image?IC = \overline{x} \pm t^*\dfrac{s}{\sqrt n}" />
@@ -90,7 +90,7 @@ onde  <img src="https://latex.codecogs.com/svg.image?\overline{x}" title="https:
 
  
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/6-ic.gif?raw=true" alt="drawing" width="600"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/6-ic.gif?raw=true" alt="drawing" width="500"/>
 <br> 
 Figura 6:  
 </p>
