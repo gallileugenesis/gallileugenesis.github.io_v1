@@ -120,10 +120,12 @@ O OpenCredit têm suas funcionalidades totalmente inseridas no ecossistema open 
 - Valorização do Cliente baseado em seus dados compartilhados;
 - Fortalecer as áreas de negócio e tomadas de decisão para o Banco Safra.
 
+Na Figura tem-se a análise SWOT é uma técnica de planejamento estratégico e gerenciamento estratégico usada para ajudar uma pessoa ou organização a identificar forças, fraquezas, oportunidades e ameaças relacionadas à concorrência de negócios ou planejamento de projetos. Às vezes é chamado de avaliação situacional ou análise situacional.
+
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/swot.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 4: Matriz de SWOT mostrando as .  
+Figura 4: Matriz SWOT mostrando as forças, fraquezas, oportunidades e ameaças relacionadas ao projeto OpenCredit.  
 </p>
 
 
