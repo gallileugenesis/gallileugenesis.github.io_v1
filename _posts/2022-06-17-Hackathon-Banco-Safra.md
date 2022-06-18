@@ -150,15 +150,15 @@ Outro ponto importante a se destacar na solução apresentada está relacionado 
 Figura 7: Resumo dos aspectos relativos à segurança da informação.
 </p>
 
-Do ponto de vista dos processos de inovação, o OpenCredit traz uma série de possibilidades transformadores, tanto para os clientes, quanto para o Banco Safra. Sob essa ótica, 
+Do ponto de vista dos processos de inovação, o OpenCredit traz uma série de possibilidades transformadoras, tanto para os clientes, quanto para o Banco Safra. Sob essa ótica, os usuários do app substituirão mecanismos de busca obsoletos e descentralizados, por um serviço simples e intuitivo, que concentra todas as informações relativas à crédito bancário  em um só lugar. Além disso, os clientes passarão a integrar o ambiente Open Banking, se beneficiando da concorrência entre as instituições financeiras, e vislumbrando novas oportunidades de negócios.
 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/8-inov.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 8: 
+Figura 8: Processos de inovação gerados pelo OpenCredit. 
 </p>
 
-
+Já para o Banco Safra, o OpenCredit se constitui como uma nova fonte de dados Open Banking, gerando um novo canal para desenvolvimento de negócios e fortalecimento de parcerias. Adicionalmente, o app pode ser considerado um nova plataforma digital passível de fácil integração com outras áreas de tecnologia do banco Safra, como mostra a Figura 8.
 
 Muito obrigado por ler esse artigo. 
 
