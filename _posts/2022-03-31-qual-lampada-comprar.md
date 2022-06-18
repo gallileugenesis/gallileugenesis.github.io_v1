@@ -62,7 +62,11 @@ Pode-se notar que, para a lâmpada A, 25% das amostram tem tempo de duração de
 
 Para finalizar essa análise gráfica, vamos dar uma olhada no histograma dos dados. 
 
-![hist.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/hist.png?raw=truestyle=centerme)
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/5-hist.png?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 5: Histograma do tempo de duração das lâmpadas A e B. 
+</p>
 
 O que vemos é que o histograma de B está deslocado para a direita, em relação a A, como já indicavam as análises anteriores. Isso indica que a média de duração das lâmpadas desse fabricante é maior. A dispersão dos dados são semelhantes, como já citado. Os dados também seguem uma distribuição aproximadamente normal. 
 
@@ -84,7 +88,13 @@ Desse modo, para uma população com média  (<img src="https://latex.codecogs.c
 
 onde  <img src="https://latex.codecogs.com/svg.image?\overline{x}" title="https://latex.codecogs.com/svg.image?\overline{x}" />  e  <img src="https://latex.codecogs.com/svg.image?s" title="https://latex.codecogs.com/svg.image?s" />  são a média e desvio padrão amostral, respectivamente, e  <img src="https://latex.codecogs.com/svg.image?t^*" title="https://latex.codecogs.com/svg.image?t^*" /> é igual a  <img src="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" title="https://latex.codecogs.com/svg.image?\frac{(1-C)}{2}" />  e é denominado valor crítico superior para a distribuição t com n-1 graus de liberdade,  <img src="https://latex.codecogs.com/svg.image?t(n-1)" title="https://latex.codecogs.com/svg.image?t(n-1)" />.
 
-![confdiag.gif](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/confdiag.gif?raw=true)
+ 
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/6-ic.gif?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 6:  
+</p>
+
 
 Vamos então encontrar os intervalos de confiança para a médias das amostras A e B,  com um nível de confiança de 95%. Nesse caso, temos os seguintes resultados:
 
