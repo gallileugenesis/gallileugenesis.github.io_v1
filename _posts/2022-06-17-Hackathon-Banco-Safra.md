@@ -87,7 +87,7 @@ A Figura 1 mostra o design do app OpenCredit.
 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/open_credit.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/1-open_credit.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 1: Design do app OpenCredit.
 </p>
@@ -95,7 +95,7 @@ Figura 1: Design do app OpenCredit.
 A motivação para a proposta da solução e a segmentação de mercado são justificadas pelos dados levantados por nossa equipe e resumidos nas Figuras 2 e 3, abaixo. 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado1.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/2-mercado1.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 2: Números de mercado que justificam o modelo de negócio baseado nas micro e pequenas empresas.  
 </p>
@@ -105,7 +105,7 @@ Como a Figura 2 mostra, a quantidade de micro e pequenas empresas abertas no pa�
 Já na Figura 3, tem-se um resumo estatístico mostrando as principais dores relatadas por 20 empreendedores que responderam a um questionário formulado por nossa equipe. 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/mercado2.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/3-mercado2.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 3: Análise de mercado mostrando as principais dores relatadas por 20 empreendedores que responderam a um questionário formulado por nossa equipe.  
 </p>
@@ -123,24 +123,24 @@ O OpenCredit têm suas funcionalidades totalmente inseridas no ecossistema open 
 Na Figura 4 tem-se a análise SWOT mostrando as forças, fraquezas, oportunidades e ameaças relacionadas ao projeto OpenCredit.  
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/swot.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/4-swot.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 4: Matriz SWOT do projeto OpenCredit.  
 </p>
 
-Os aspectos relativos à governança, por meio da metodologia ITIL, e de infraestrutura da solução são mostrados na Figuras 5. 
+Os aspectos relativos à governança, por meio da metodologia ITIL, e de infraestrutura da solução são mostrados nas Figuras 5 e 6. 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/gov_infra.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/5-gov_infra.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 5: Esquemas de governança (metodologia ITIL) e infraestrutura do OpenCredit. 
 </p>
 
 Outro ítem 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/gov_infra.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/6-infra.png?raw=true" alt="drawing" width="700"/>
 <br> 
-Figura 6:  
+Figura 6: Mais detalhes da infraestrutura do OpenCredit.
 </p>
 
 Muito obrigado por ler esse artigo. 
