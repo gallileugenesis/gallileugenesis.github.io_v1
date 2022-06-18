@@ -16,7 +16,7 @@ Essa empresa recebe então os dados do tempo de duração, em horas,  de lâmpad
 ![df.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme)
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme" alt="drawing" width="600"/>
+<img src="https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/df.png?raw=true,style=centerme" alt="drawing" width="400"/>
 <br> 
 Figura 3: Análise de mercado, c  
 </p>
