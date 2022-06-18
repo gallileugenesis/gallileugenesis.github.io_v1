@@ -150,6 +150,8 @@ Outro ponto importante a se destacar na solução apresentada está relacionado 
 Figura 7:Resumo dos aspectos relativos à segurança da informação.
 </p>
 
+Do ponto de vista dos processos de inovação, o OpenCredit traz uma série de 
+
 
 Muito obrigado por ler esse artigo. 
 
