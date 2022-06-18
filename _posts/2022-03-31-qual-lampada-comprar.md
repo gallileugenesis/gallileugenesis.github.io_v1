@@ -92,7 +92,7 @@ onde  <img src="https://latex.codecogs.com/svg.image?\overline{x}" title="https:
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/6-ic.gif?raw=true" alt="drawing" width="500"/>
 <br> 
-Figura 6:  
+Figura 6: Intervalo de confiança.  
 </p>
 
 
