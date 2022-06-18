@@ -166,14 +166,13 @@ A Figura 9 mostra alguns aspectos relacionados ao desenvolvimento da solução, 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/9-denv.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 9:  
+Figura 9: Resumo dos aspectos relacionados ao desenvolvimento da OpenCredit.
 </p>
 
-Alguns detalhes das funcionalidades do app, encontrada nos arquivos disponíveis no
- [Github](https://github.com/gallileugenesis/Hackathon_Safra).
+Alguns detalhes das funcionalidades do app, encontrada nos arquivos disponíveis no [Github](https://github.com/gallileugenesis/Hackathon_Safra).
 
 
-A [api_openbanking.py](api_openbanking.py) consiste em um arquivo python com as seguintes classes/ funções:
+> A [api_openbanking.py](api_openbanking.py) consiste em um arquivo python com as seguintes classes/ funções:
 
 Openbanking.consulta_api() -> responsável pela coleta e tratamento dos dados abertos de serviços de empréstimos e financiamentos disponibilizados pelas instituições financeiras participantes do OpenBanking
 
