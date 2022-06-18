@@ -147,10 +147,17 @@ Outro ponto importante a se destacar na solução apresentada está relacionado 
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/7-seg_info.png?raw=true" alt="drawing" width="600"/>
 <br> 
-Figura 7:Resumo dos aspectos relativos à segurança da informação.
+Figura 7: Resumo dos aspectos relativos à segurança da informação.
 </p>
 
-Do ponto de vista dos processos de inovação, o OpenCredit traz uma série de 
+Do ponto de vista dos processos de inovação, o OpenCredit traz uma série de possibilidades transformadores, tanto para os clientes, quanto para o Banco Safra. Sob essa ótica, 
+
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/8-inov.png?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 8: 
+</p>
+
 
 
 Muito obrigado por ler esse artigo. 
