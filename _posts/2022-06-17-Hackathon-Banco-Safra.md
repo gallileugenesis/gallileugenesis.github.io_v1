@@ -128,11 +128,12 @@ Na Figura 4 tem-se a análise SWOT mostrando as forças, fraquezas, oportunidade
 Figura 4: Matriz SWOT do projeto OpenCredit.  
 </p>
 
+Os aspectos relativos à governança, por meio da metodologia ITIL, e de infraestrutura da solução são mostrados na Figuras 5. 
 
 <p align="center">
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/swot.png?raw=true" alt="drawing" width="700"/>
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/gov_infra.png?raw=true" alt="drawing" width="700"/>
 <br> 
-Figura 5:  
+Figura 5: Esquemas de governança (metodologia ITIL) e infraestrutura do OpenCredit. 
 </p>
 
 Muito obrigado por ler esse artigo. 
