@@ -16,7 +16,7 @@ Essa empresa recebe então os dados do tempo de duração, em horas,  de lâmpad
 <p align="center">
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2022-03-31-qual-lampada-comprar/1-tab.png?raw=true" alt="drawing" width="300"/>
 <br> 
-Figura 3: Análise de mercado, c  
+Figura 1: Tabela mostrando as primeiras 10 linhas do banco de dados.   
 </p>
 
 Ao todo, o banco de dados contém 40 entradas com os respectivos tempos de duração das lâmpadas A e B. 
