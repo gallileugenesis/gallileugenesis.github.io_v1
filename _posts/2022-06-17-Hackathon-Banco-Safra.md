@@ -205,7 +205,7 @@ André Tsuji/
 Gabriel Veronezzi/
 Leonardo Carvalho
 
-Todo o projeto e seus detalhes estão disponíveis no Github, que você pode acessar, clicando [aqui](https://github.com/gallileugenesis/Hackathon_Safra).
+Todo o projeto e seus detalhes estão disponíveis no Github, que você pode acessar clicando [aqui](https://github.com/gallileugenesis/Hackathon_Safra).
 
 
 Muito obrigado por ler esse artigo. 
