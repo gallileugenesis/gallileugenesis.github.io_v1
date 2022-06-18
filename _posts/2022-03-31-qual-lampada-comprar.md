@@ -33,17 +33,6 @@ Bem, vamos começar com uma descrição estatística básica dos dados:
 Figura 2: Descrição estatística básica dos dados.
 </p>
 
-|       |      A      |      B      |
-| :---: | :---------: | :---------: |
-| count |  40.000000  |  40.000000  |
-| mean  | 909.650000  | 1018.350000 |
-|  std  |  94.305165  |  96.901364  |
-|  min  | 684.000000  | 819.000000  |
-|  25%  | 857.250000  | 949.750000  |
-|  50%  | 916.500000  | 1015.500000 |
-|  75%  | 971.250000  | 1085.500000 |
-|  max  | 1093.000000 | 1230.000000 |
-
 O que esses dados nos dizem? Bom, primeiro, a média de duração da lâmpada A é de 909,65 horas, ao passo que a lâmpada B dura, em média, 1018,35 horas, como também está mostrado na figura abaixo. Isso significa que, para esse conjunto de dados,  as lâmpadas do tipo B duram em média, 12% a mais do que as lâmpadas A.  
 
 ![tempo_medio.png](https://github.com/gallileugenesis/qual_lampada_comprar/blob/main/figuras/tempo_medio.png?raw=truestyle=centerme)
