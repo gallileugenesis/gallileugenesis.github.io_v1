@@ -120,6 +120,11 @@ O OpenCredit têm suas funcionalidades totalmente inseridas no ecossistema open 
 - Valorização do Cliente baseado em seus dados compartilhados;
 - Fortalecer as áreas de negócio e tomadas de decisão para o Banco Safra.
 
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/swot.png?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 4: Matriz de SWOT mostrando as .  
+</p>
 
 
 Muito obrigado por ler esse artigo. 
