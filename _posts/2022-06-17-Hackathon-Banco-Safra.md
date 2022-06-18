@@ -161,9 +161,17 @@ Figura 8: Processos de inovação gerados pelo OpenCredit.
 
 Já para o Banco Safra, o OpenCredit se constitui como uma nova fonte de dados Open Banking, gerando um novo canal para desenvolvimento de negócios e fortalecimento de parcerias. Adicionalmente, o app pode ser considerado um nova plataforma digital passível de fácil integração com outras áreas de tecnologia da instituição, como mostra a Figura 8.
 
+A Figura 9 mostra alguns aspectos relacionados ao desenvolvimento da solução, como linguagem de programação, banco de dados e UX. 
 
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/9-denv.png?raw=true" alt="drawing" width="600"/>
+<br> 
+Figura 9:  
+</p>
 
-## Funcionalidades
+Alguns detalhes das funcionalidades do app, encontrada nos arquivos disponíveis no
+ [Github](https://github.com/gallileugenesis/Hackathon_Safra).
+
 
 A [api_openbanking.py](api_openbanking.py) consiste em um arquivo python com as seguintes classes/ funções:
 
