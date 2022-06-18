@@ -5,7 +5,7 @@ date:   2022-06-17 00:00
 category: projetos
 icon: www
 keywords: Hackathon, inovação, ciência de dados, openbanking
-image: 2022-06-17-Hackathon-Banco-Safra/banco_safra.jpg
+image: 2022-06-17-Hackathon-Banco-Safra/0-banco_safra.jpg
 preview: 0
 ---
 
@@ -134,6 +134,13 @@ Os aspectos relativos à governança, por meio da metodologia ITIL, e de infraes
 <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/gov_infra.png?raw=true" alt="drawing" width="700"/>
 <br> 
 Figura 5: Esquemas de governança (metodologia ITIL) e infraestrutura do OpenCredit. 
+</p>
+
+Outro ítem 
+<p align="center">
+<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2022-06-17-Hackathon-Banco-Safra/gov_infra.png?raw=true" alt="drawing" width="700"/>
+<br> 
+Figura 6:  
 </p>
 
 Muito obrigado por ler esse artigo. 
