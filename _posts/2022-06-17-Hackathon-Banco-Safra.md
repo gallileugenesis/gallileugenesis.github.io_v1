@@ -194,16 +194,16 @@ A **[api_openbanking.py](api_openbanking.py)** consiste em um arquivo python com
 
 ## Contribuidores
 
-Barbara Bernardi/
-Cleyson Teixeira/
-Daniel Rezende/
-Gabriel P. Assis/
-Gallileu Genesis/
+- Gallileu Genesis
+- Barbara Bernardi
+- Cleyson Teixeira
+- Daniel Rezende
+- Gabriel P. Assis
 
 ## Desenvolvedores:
-André Tsuji/
-Gabriel Veronezzi/
-Leonardo Carvalho
+- André Tsuji
+- Gabriel Veronezzi
+- Leonardo Carvalho
 
 Todo o projeto e seus detalhes estão disponíveis no Github, que você pode acessar clicando [aqui](https://github.com/gallileugenesis/Hackathon_Safra).
 
