@@ -11,8 +11,5 @@
 - name: pesquisa
   href: '/pesquisa/'
 
-- name: rand()
-  href: '/rand()/'
-
-- name: curriculum vitae
-  href: '/curriculum vitae/'
+#- name: curriculum vitae
+#  href: '/curriculum vitae/'
