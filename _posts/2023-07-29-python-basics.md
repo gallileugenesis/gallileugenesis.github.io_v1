@@ -10,7 +10,7 @@ preview: 0
 ---
 
 
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python Logo" width="200" height="100">
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python Logo" width="800" height="400">
 
 
 # Curso básico de Python
