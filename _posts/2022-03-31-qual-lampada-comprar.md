@@ -5,7 +5,7 @@ date:   2022-03-31
 category: blog
 icon: www
 keywords: estatística, análise de dados, negócios
-image: 2022-03-31-qual-lampada-comprar/lampadas.jpg
+image: 2022-03-31-qual-lampada-comprar/0-lampadas.jpg
 preview: 0
 ---
 
