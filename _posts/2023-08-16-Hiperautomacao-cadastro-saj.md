@@ -18,3 +18,4 @@ Já a automação do cadastro foi realizada com o [UiPath](https://www.uipath.co
 
 O resultado final é um processo de [hiperautomação](https://www.sap.com/brazil/products/technology-platform/process-automation/what-is-hyperautomation.html#:~:text=A%20hiperautoma%C3%A7%C3%A3o%20refere%2Dse%20ao,poss%C3%ADvel%20%E2%80%93%20o%20mais%20r%C3%A1pido%20poss%C3%ADvel.), como mostra a figura abaixo.
 
+<img src="post-img/projetos/2023-08-16-Hiperautomacao-cadastro-saj/1-Hiperautomação.png" alt="Python Logo" width="800" height="400">
