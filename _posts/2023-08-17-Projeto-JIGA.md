@@ -5,7 +5,7 @@ date:   2023-08-18 00:00
 category: projetos
 icon: www
 keywords: IA, projetos, ciência de dados, pesquisa 
-image: 2023-08-17-IA-Endereçamento-Projeto-JIGA/1.jpg
+image: 2023-08-17-Projeto-JIGA/1.jpg
 preview: 0
 ---
 
