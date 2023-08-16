@@ -5,7 +5,7 @@ date:   2023-08-16 00:00
 category: projetos
 icon: www
 keywords: projetos, hiper-automação, sistemas especialistas, automação 
-image: 1-Hiper-automação.png
+image: 2023-08-16-Hiper-automacao-cadastro-saj\1-Hiper-automação.png
 preview: 0
 ---
 
