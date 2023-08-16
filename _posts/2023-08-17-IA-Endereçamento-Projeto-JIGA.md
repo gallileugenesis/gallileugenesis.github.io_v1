@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Projeto JIGA - IA de endereçamento"
+title:  "Projeto JIGA - Usina Pernambucana de Inovação"
 date:   2023-08-18 00:00
 category: projetos
 icon: www
