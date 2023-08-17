@@ -20,5 +20,8 @@ Desenhamos, então, uma solução baseada em modelos de classificação, treinad
   <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2023-08-17-Projeto-JIGA/02.jpeg?raw=true" alt="Python Logo" width="600" height="400">
 </div>
 
+<div style="text-align:center;">
+  <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2023-08-17-Projeto-JIGA/03.jpeg?raw=true" alt="Python Logo" width="600" height="400">
+</div>
 
-<img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/projetos/2023-08-17-Projeto-JIGA/03.jpeg?raw=true" alt="Python Logo" width="600" height="400">
+ 
