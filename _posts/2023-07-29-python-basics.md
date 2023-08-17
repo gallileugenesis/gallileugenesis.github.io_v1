@@ -10,8 +10,9 @@ preview: 0
 ---
 
 
-<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python Logo" width="800" height="400">
-
+<div style="text-align:center;">
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png"  alt="Python Logo" width="800" height="400">
+</div>
 
 # Curso básico de Python
 Prof. Gallileu Genesis
