@@ -18,6 +18,7 @@ Já a automação do cadastro foi realizada com o [UiPath](https://www.uipath.co
 
 O resultado final é um processo de [hiperautomação](https://www.sap.com/brazil/products/technology-platform/process-automation/what-is-hyperautomation.html#:~:text=A%20hiperautoma%C3%A7%C3%A3o%20refere%2Dse%20ao,poss%C3%ADvel%20%E2%80%93%20o%20mais%20r%C3%A1pido%20poss%C3%ADvel.), como mostra a figura abaixo.
 
+ 
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/aead6770ccd7c17ace8d9b413084d75b04b22d40/post-img/projetos/2023-08-16-Hiperautomacao-cadastro-saj/1-Hiperautoma%C3%A7%C3%A3o.png?raw=true"alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/gallileugenesis.github.io/blob/aead6770ccd7c17ace8d9b413084d75b04b22d40/post-img/projetos/2023-08-16-Hiperautomacao-cadastro-saj/1-Hiperautoma%C3%A7%C3%A3o.png?raw=true" alt="Python Logo" width="600" height="400">
 </div>
