@@ -189,7 +189,7 @@ hist(dados$Preco_Cafe,
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_11_0.png?raw=true" alt="Python Logo" width="600" height="600">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_11_0.png?raw=true" alt="Python Logo" width="800" height="600">
 </div> 
     
 
