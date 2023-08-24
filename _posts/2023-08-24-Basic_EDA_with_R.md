@@ -146,7 +146,7 @@ hist(dados$Preco_Cafe)
 
 
     
-![png](Figures/output_8_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_8_0.png?raw=true)
     
 
 
@@ -161,7 +161,7 @@ hist(dados$Preco_Cafe,
 
 
     
-![png](Figures/output_9_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_9_0.png?raw=true)
     
 
 
@@ -184,7 +184,7 @@ hist(dados$Preco_Cafe,
 
 
     
-![png](Figures/output_11_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_11_0.png?raw=true)
     
 
 
@@ -210,7 +210,7 @@ plot(y = dados$Vendas_Cafe,
 
 
     
-![png](Figures/output_14_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_14_0.png?raw=true)
     
 
 
@@ -232,7 +232,7 @@ grid()
 
 
     
-![png](Figures/output_15_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_15_0.png?raw=true)
     
 
 
@@ -261,7 +261,7 @@ grid()
 
 
     
-![png](Figures/output_17_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_17_0.png?raw=true)
     
 
 
@@ -286,7 +286,7 @@ plot(variavel) #grafico com a qtde abaixo e acima da media
 
 
     
-![png](Figures/output_20_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_20_0.png?raw=true)
     
 
 
@@ -312,7 +312,7 @@ boxplot(dados$Vendas_Cafe)
 
 
     
-![png](Figures/output_23_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_23_0.png?raw=true)
     
 
 
@@ -327,7 +327,7 @@ boxplot(dados$Preco_Cafe)
 
 
     
-![png](Figures/output_25_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_25_0.png?raw=true)
     
 
 
@@ -342,7 +342,7 @@ boxplot(dados$Vendas_Cafe~dados$Promocao)
 
 
     
-![png](Figures/output_27_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_27_0.png?raw=true)
     
 
 
@@ -361,6 +361,6 @@ boxplot(dados$Vendas_Cafe~dados$Promocao,
 
 
     
-![png](Figures/output_28_0.png)
+![png](https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_28_0.png?raw=true)
     
 
