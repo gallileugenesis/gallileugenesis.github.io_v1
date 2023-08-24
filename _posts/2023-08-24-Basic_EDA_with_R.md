@@ -147,7 +147,7 @@ hist(dados$Preco_Cafe)
 
 
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_8_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_8_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
      
 
@@ -164,7 +164,7 @@ hist(dados$Preco_Cafe,
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_9_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_9_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -189,7 +189,7 @@ hist(dados$Preco_Cafe,
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_11_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_11_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -217,7 +217,7 @@ plot(y = dados$Vendas_Cafe,
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_14_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_14_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -241,7 +241,7 @@ grid()
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_15_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_15_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -272,7 +272,7 @@ grid()
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_17_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_17_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -299,7 +299,7 @@ plot(variavel) #grafico com a qtde abaixo e acima da media
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_20_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_20_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -327,7 +327,7 @@ boxplot(dados$Vendas_Cafe)
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_23_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_23_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -344,7 +344,7 @@ boxplot(dados$Preco_Cafe)
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_25_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_25_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -361,7 +361,7 @@ boxplot(dados$Vendas_Cafe~dados$Promocao)
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_27_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_27_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
@@ -382,7 +382,7 @@ boxplot(dados$Vendas_Cafe~dados$Promocao,
 
     
 <div style="text-align:center;">
-  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_28_0.png?raw=true" alt="Python Logo" width="600" height="400">
+  <img src="https://github.com/gallileugenesis/basic-EDA-with-R/blob/main/Figures/output_28_0.png?raw=true" alt="Python Logo" width="600" height="600">
 </div> 
     
 
