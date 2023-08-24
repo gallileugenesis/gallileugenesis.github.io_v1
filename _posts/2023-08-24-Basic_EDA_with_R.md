@@ -24,6 +24,7 @@ Por fim, o código explora a representação de dados através de boxplots, perm
 
 No conjunto, esse código de Análise Exploratória de Dados oferece uma jornada informativa e visualmente rica, demonstrando como a combinação de estatísticas e gráficos pode fornecer insights valiosos para tomadas de decisões informadas.
 
+**Nota:** todo o código está disponível no [Github](https://github.com/gallileugenesis/basic-EDA-with-R/tree/main)
 
 ```R
 # Cria o data frame contendo o histórico de vendas do cafe
@@ -385,3 +386,4 @@ boxplot(dados$Vendas_Cafe~dados$Promocao,
 </div> 
     
 
+**Nota:** todo o código está disponível no [Github](https://github.com/gallileugenesis/basic-EDA-with-R/tree/main)
