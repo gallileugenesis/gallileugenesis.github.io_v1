@@ -22,8 +22,15 @@ Pode ser usada para modelar tanto variáveis discreta quanto variáveis continua
 #### 1.1 Distribuição Uniforme Discreta
 A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$x_1, x_2, ..., x_n$}, a função de probabilidade é definida da seguinte maneira:
 
+
+\[
 \begin{equation}
-P(X = x_i) = \dfrac{1}{n}$ ,   para $i = 1, 2, ..., n
+E = mc^2
+\end{equation}
+\]
+
+\begin{equation}
+P(X = x_i) = \dfrac{1}{n}  ,   para  i = 1, 2, ..., n
 \end{equation}
  
 Onde:
