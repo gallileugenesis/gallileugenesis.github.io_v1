@@ -25,7 +25,7 @@ Pode ser usada para modelar tanto variáveis discreta quanto variáveis continua
 #### 1.1 Distribuição Uniforme Discreta
 A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$x_1, x_2, ..., x_n$}, a função de probabilidade é definida da seguinte maneira:
 
-$P(X = x_i) = \dfrac{1}{n}$  ,   para  $i = 1, 2, ..., n$
+$$P(X = x_i) = \dfrac{1}{n}$$  ,   para  $$i = 1, 2, ..., n$$
 
 Onde:
 
@@ -39,7 +39,6 @@ A média (valor esperado) de uma distribuição uniforme discreta é calculada d
 A variância de uma distribuição uniforme discreta é calculada como:
 
 - Variância: $\sigma^2 = \dfrac{(x_1 - \mu)^2 + (x_2 - \mu)^2 + ... + (x_n - \mu)^2}{n} =  \dfrac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2$
-
 
 Um exemplo clássico é o lançamento de um dado justo de seis faces. Cada número de 1 a 6 tem uma probabilidade de 1/6 de ser lançado (Figura da esquerda, abaixo).
 
