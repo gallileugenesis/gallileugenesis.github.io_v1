@@ -23,45 +23,45 @@ A Distribuição Uniforme é uma das distribuições de probabilidade mais simpl
 Pode ser usada para modelar tanto variáveis discreta quanto variáveis continuas e é frequentemente representada graficamente como um retângulo, onde a altura do retângulo representa a probabilidade e a largura representa a amplitude do intervalo.
 
 #### 1.1 Distribuição Uniforme Discreta
-A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$x_1, x_2, ..., x_n$}, a função de probabilidade é definida da seguinte maneira:
+A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$$x_1, x_2, ..., x_n$$}, a função de probabilidade é definida da seguinte maneira:
 
 $$P(X = x_i) = \dfrac{1}{n}$$  ,   para  $$i = 1, 2, ..., n$$
 
 Onde:
 
-- $P(X = x_i)$ é a probabilidade de a variável aleatória $X$ assumir o valor $x_i$.
-- $n$ é o número total de valores possíveis, ou seja, o tamanho do conjunto de valores {$x_1, x_2, ..., x_n$}.
+- $$P(X = x_i)$$ é a probabilidade de a variável aleatória $$X$$ assumir o valor $$x_i$$.
+- $$n$$ é o número total de valores possíveis, ou seja, o tamanho do conjunto de valores {$$x_1, x_2, ..., x_n$$}.
 
 A média (valor esperado) de uma distribuição uniforme discreta é calculada da seguinte forma:
 
-- Média: $\mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i$ 
+- Média: $$\mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i$$ 
 
 A variância de uma distribuição uniforme discreta é calculada como:
 
-- Variância: $\sigma^2 = \dfrac{(x_1 - \mu)^2 + (x_2 - \mu)^2 + ... + (x_n - \mu)^2}{n} =  \dfrac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2$
+- Variância: $$\sigma^2 = \dfrac{(x_1 - \mu)^2 + (x_2 - \mu)^2 + ... + (x_n - \mu)^2}{n} =  \dfrac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2$$
 
 Um exemplo clássico é o lançamento de um dado justo de seis faces. Cada número de 1 a 6 tem uma probabilidade de 1/6 de ser lançado (Figura da esquerda, abaixo).
 
 #### 1.2 Distribuição Uniforme contínua
 
-A distribuição uniforme contínua é usada quando os valores possíveis formam um intervalo contínuo. Matematicamente, uma distribuição uniforme contínua em um intervalo $[a, b]$ é definida pela sua função de densidade de probabilidade $f(x)$ da seguinte forma:
+A distribuição uniforme contínua é usada quando os valores possíveis formam um intervalo contínuo. Matematicamente, uma distribuição uniforme contínua em um intervalo $$[a, b]$$ é definida pela sua função de densidade de probabilidade $$f(x)$$ da seguinte forma:
 
-$f(x) = \begin{cases}
+$$f(x) = \begin{cases}
          \dfrac{1}{b - a}, & \text{se } a \leq x \leq b \\
          0, & \text{caso contrário}
-       \end{cases}$
+       \end{cases}$$
 
 
 Onde:
-- $a$ e $b$ são os limites inferior e superior do intervalo, respectivamente.
-- $x$ é uma variável aleatória dentro desse intervalo.
+- $$a$$ e $$b$$ são os limites inferior e superior do intervalo, respectivamente.
+- $$x$$ é uma variável aleatória dentro desse intervalo.
 
-A integral da função de densidade de probabilidade ao longo do intervalo $[a, b]$ é igual a 1, o que significa que a área sob a curva da distribuição uniforme é sempre igual a 1. Isso reflete o fato de que a probabilidade total de todos os eventos possíveis deve ser igual a 1.
+A integral da função de densidade de probabilidade ao longo do intervalo $$[a, b]$$ é igual a 1, o que significa que a área sob a curva da distribuição uniforme é sempre igual a 1. Isso reflete o fato de que a probabilidade total de todos os eventos possíveis deve ser igual a 1.
 
-Além disso, a média (valor esperado) e a variância de uma distribuição uniforme no intervalo $[a, b]$ podem ser calculadas da seguinte forma:
+Além disso, a média (valor esperado) e a variância de uma distribuição uniforme no intervalo $$[a, b]$$ podem ser calculadas da seguinte forma:
 
-- Média: $\mu = \dfrac{a + b}{2}$  
-- Variância:  $\sigma^2 = \dfrac{(b - a)^2}{12}$
+- Média: $$\mu = \dfrac{a + b}{2}$$  
+- Variância:  $$\sigma^2 = \dfrac{(b - a)^2}{12}$$
 
 Um exemplo é a escolha de um número aleatório entre 0 e 1. Nesse caso, qualquer número dentro desse intervalo tem a mesma probabilidade de ser escolhido, e a probabilidade é distribuída uniformemente ao longo desse intervalo (Figura da direita, abaixo).
 
