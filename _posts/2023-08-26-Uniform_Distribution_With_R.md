@@ -14,21 +14,7 @@ preview: 0
 **Prof. Gallileu Genesis**
 
 ### 1. Distribuição Uniforme 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-
-\mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i
-
-
-\[
-\begin{equation}
-E = mc^2
-\end{equation}
-\]
-
-
+ 
 A Distribuição Uniforme é uma das distribuições de probabilidade mais simples e fundamentais. Ela descreve um cenário em que todos os eventos possíveis têm a mesma probabilidade de ocorrer. Isso significa que cada valor dentro de um intervalo específico é igualmente provável de ser observado.
 
 Pode ser usada para modelar tanto variáveis discreta quanto variáveis continuas e é frequentemente representada graficamente como um retângulo, onde a altura do retângulo representa a probabilidade e a largura representa a amplitude do intervalo.
@@ -36,9 +22,10 @@ Pode ser usada para modelar tanto variáveis discreta quanto variáveis continua
 #### 1.1 Distribuição Uniforme Discreta
 A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$x_1, x_2, ..., x_n$}, a função de probabilidade é definida da seguinte maneira:
 
-
-$P(X = x_i) = \dfrac{1}{n}$ ,   para $i = 1, 2, ..., n$
-
+\begin{equation}
+P(X = x_i) = \dfrac{1}{n}$ ,   para $i = 1, 2, ..., n
+\end{equation}
+ 
 Onde:
 
 - $P(X = x_i)$ é a probabilidade de a variável aleatória $X$ assumir o valor $x_i$.
