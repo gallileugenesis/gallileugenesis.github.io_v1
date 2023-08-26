@@ -8,6 +8,9 @@ keywords: EDA, blog, ciência de dados, distribuição de probabilidades, R
 image: 2023-08-26-Uniform_Distribution_With_R/01.png
 preview: 0
 ---
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 # Distribuição Uniforme
 
@@ -22,29 +25,10 @@ Pode ser usada para modelar tanto variáveis discreta quanto variáveis continua
 #### 1.1 Distribuição Uniforme Discreta
 A distribuição uniforme discreta é usada quando temos um número finito de valores possíveis, e cada um deles tem a mesma probabilidade. Matematicamente, para uma distribuição uniforme discreta com valores no conjunto {$x_1, x_2, ..., x_n$}, a função de probabilidade é definida da seguinte maneira:
 
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
-Here's an inline equation: \(x^2 + y^2 = z^2\).
+$P(X = x_i) = \dfrac{1}{n}$  ,   para  $i = 1, 2, ..., n$
 
-And here's a display equation:
-
-$$
-\frac{1}{n} \sum_{i=1}^{n} x_i
-$$
-
-
-\[
-\begin{equation}
-E = mc^2
-\end{equation}
-\]
-
-\begin{equation}
-P(X = x_i) = \dfrac{1}{n}  ,   para  i = 1, 2, ..., n
-\end{equation}
- 
+  
 Onde:
 
 - $P(X = x_i)$ é a probabilidade de a variável aleatória $X$ assumir o valor $x_i$.
