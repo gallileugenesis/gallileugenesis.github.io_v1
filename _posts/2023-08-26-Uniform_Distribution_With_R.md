@@ -21,6 +21,14 @@ preview: 0
 
 \mu = \dfrac{(x_1 + x_2 + ... + x_n)}{n} = \dfrac{1}{n}  \sum_{i=1}^{n} x_i
 
+
+\[
+\begin{equation}
+E = mc^2
+\end{equation}
+\]
+
+
 A Distribuição Uniforme é uma das distribuições de probabilidade mais simples e fundamentais. Ela descreve um cenário em que todos os eventos possíveis têm a mesma probabilidade de ocorrer. Isso significa que cada valor dentro de um intervalo específico é igualmente provável de ser observado.
 
 Pode ser usada para modelar tanto variáveis discreta quanto variáveis continuas e é frequentemente representada graficamente como um retângulo, onde a altura do retângulo representa a probabilidade e a largura representa a amplitude do intervalo.
