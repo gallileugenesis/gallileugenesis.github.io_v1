@@ -100,7 +100,7 @@ par(mfrow=c(1, 1))
 
 
     
-![png](Figures/output_2_0.png)
+![png](https://github.com/gallileugenesis/uniform-distribution-with-R/blob/main/Figures/output_2_0.png?raw=true)
     
 
 
@@ -143,7 +143,7 @@ cat("Variância:", variance, "\n")
 
 
     
-![png](Figures/output_4_1.png)
+![png](https://github.com/gallileugenesis/uniform-distribution-with-R/blob/main/Figures/output_4_1.png?raw=true)
     
 
 
@@ -182,12 +182,7 @@ cat("Variância:", variance, "\n")
 
 
     
-![png](Figures/output_6_1.png)
+![png](https://github.com/gallileugenesis/uniform-distribution-with-R/blob/main/Figures/output_6_1.png?raw=true)
     
 
-
-
-```R
-
-```
 Todo o código está disponível no [Gihub](https://github.com/gallileugenesis/uniform-distribution-with-R)
