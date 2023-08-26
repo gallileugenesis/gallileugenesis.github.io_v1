@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Análise exploratória de dados  com R"
+title:  "Análise exploratória de dados com R"
 date:   2023-08-24 00:00
 category: blog
 icon: www
