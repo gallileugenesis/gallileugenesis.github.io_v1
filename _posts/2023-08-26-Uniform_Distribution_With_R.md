@@ -14,6 +14,11 @@ preview: 0
 **Prof. Gallileu Genesis**
 
 ### 1. Distribuição Uniforme 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 
 A Distribuição Uniforme é uma das distribuições de probabilidade mais simples e fundamentais. Ela descreve um cenário em que todos os eventos possíveis têm a mesma probabilidade de ocorrer. Isso significa que cada valor dentro de um intervalo específico é igualmente provável de ser observado.
 
