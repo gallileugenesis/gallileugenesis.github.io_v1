@@ -787,55 +787,55 @@ for col in numerical_features:
 
 
     
-![png](output_23_0.png)
+![png](post-img\competições kaggle\output_23_0.png)
     
 
 
 
     
-![png](output_23_1.png)
+![png](post-img\competições kaggle\output_23_1.png)
     
 
 
 
     
-![png](output_23_2.png)
+![png](post-img\competições kaggle\output_23_2.png)
     
 
 
 
     
-![png](output_23_3.png)
+![png](post-img\competições kaggle\output_23_3.png)
     
 
 
 
     
-![png](output_23_4.png)
+![png](post-img\competições kaggle\output_23_4.png)
     
 
 
 
     
-![png](output_23_5.png)
+![png](post-img\competições kaggle\output_23_5.png)
     
 
 
 
     
-![png](output_23_6.png)
+![png](post-img\competições kaggle\output_23_6.png)
     
 
 
 
     
-![png](output_23_7.png)
+![png](post-img\competições kaggle\output_23_7.png)
     
 
 
 
     
-![png](output_23_8.png)
+![png](post-img\competições kaggle\output_23_8.png)
     
 
 
@@ -847,55 +847,55 @@ for col in numerical_features:
 
 
     
-![png](output_24_0.png)
+![png](post-img\competições kaggle\output_24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](post-img\competições kaggle\output_24_1.png)
     
 
 
 
     
-![png](output_24_2.png)
+![png](post-img\competições kaggle\output_24_2.png)
     
 
 
 
     
-![png](output_24_3.png)
+![png](post-img\competições kaggle\output_24_3.png)
     
 
 
 
     
-![png](output_24_4.png)
+![png](post-img\competições kaggle\output_24_4.png)
     
 
 
 
     
-![png](output_24_5.png)
+![png](post-img\competições kaggle\output_24_5.png)
     
 
 
 
     
-![png](output_24_6.png)
+![png](post-img\competições kaggle\output_24_6.png)
     
 
 
 
     
-![png](output_24_7.png)
+![png](post-img\competições kaggle\output_24_7.png)
     
 
 
 
     
-![png](output_24_8.png)
+![png](post-img\competições kaggle\output_24_8.png)
     
 
 
@@ -907,55 +907,55 @@ for col in numerical_features:
 
 
     
-![png](output_25_0.png)
+![png](post-img\competições kaggle\output_25_0.png)
     
 
 
 
     
-![png](output_25_1.png)
+![png](post-img\competições kaggle\output_25_1.png)
     
 
 
 
     
-![png](output_25_2.png)
+![png](post-img\competições kaggle\output_25_2.png)
     
 
 
 
     
-![png](output_25_3.png)
+![png](post-img\competições kaggle\output_25_3.png)
     
 
 
 
     
-![png](output_25_4.png)
+![png](post-img\competições kaggle\output_25_4.png)
     
 
 
 
     
-![png](output_25_5.png)
+![png](post-img\competições kaggle\output_25_5.png)
     
 
 
 
     
-![png](output_25_6.png)
+![png](post-img\competições kaggle\output_25_6.png)
     
 
 
 
     
-![png](output_25_7.png)
+![png](post-img\competições kaggle\output_25_7.png)
     
 
 
 
     
-![png](output_25_8.png)
+![png](post-img\competições kaggle\output_25_8.png)
     
 
 
@@ -974,13 +974,13 @@ plot_pairplot(train, test)
 
 
     
-![png](output_27_1.png)
+![png](post-img\competições kaggle\output_27_1.png)
     
 
 
 
     
-![png](output_27_2.png)
+![png](post-img\competições kaggle\output_27_2.png)
     
 
 
@@ -992,7 +992,7 @@ plot_heatmap(train[numerical_features])
 
 
     
-![png](output_28_0.png)
+![png](post-img\competições kaggle\output_28_0.png)
     
 
 
@@ -1004,7 +1004,7 @@ plot_heatmap(test[numerical_features[:-1]])
 
 
     
-![png](output_29_0.png)
+![png](post-img\competições kaggle\output_29_0.png)
     
 
 
@@ -1030,7 +1030,7 @@ plt.show()
 
 
     
-![png](output_31_0.png)
+![png](post-img\competições kaggle\output_31_0.png)
     
 
 
@@ -1054,6 +1054,6 @@ plt.show()
 
 
     
-![png](output_32_0.png)
+![png](post-img\competições kaggle\output_32_0.png)
     
 
