@@ -788,19 +788,19 @@ for col in numerical_features:
 
 
     
-![png](..\post-img\competições kaggle\output_23_0.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/competi%C3%A7%C3%B5es%20kaggle/2023-08-27-EDA-California-Housing-Dataset/output_23_0.png?raw=true)
     
 
 
 
     
-![png](post-img/competições kaggle/output_23_1.png)
+![png](post-img\competições kaggle\output_23_1.png)
     
 
 
 
     
-![png](../post-img/competições kaggle/output_23_2.png)
+![png](post-img\competições kaggle\output_23_2.png)
     
 
 
