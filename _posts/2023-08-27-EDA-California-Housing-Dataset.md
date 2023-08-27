@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "EDA - California Housing Dataset"
-date:   2023-08-26 00:00
+date:   2023-08-27 00:00
 category: competições kaggle
 icon: www
 keywords: EDA, competições kaggle, ciência de dados, python
