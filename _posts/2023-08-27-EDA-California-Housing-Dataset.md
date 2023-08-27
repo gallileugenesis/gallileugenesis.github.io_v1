@@ -800,7 +800,7 @@ for col in numerical_features:
 
 
     
-![png](post-img\competições kaggle\output_23_2.png)
+![png](../post-img/competições kaggle/output_23_2.png)
     
 
 
