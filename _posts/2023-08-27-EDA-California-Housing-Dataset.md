@@ -9,6 +9,7 @@ image: 2023-08-27-EDA-California-Housing-Dataset/01.webp
 preview: 0
 ---
 
+**Nota:** Todo o código está disponível no [Github](https://github.com/gallileugenesis/California-Housing-Dataset)
 
 ###### Objetivos:
 O objetivo da Análise Exploratória de Dados (EDA) é entender a estrutura e os relacionamentos dentro do conjunto de dados e identificar inconsistências, "sujeiras", padrões, outliers e outros recursos de interesse. É uma etapa inicial no processo de análise de dados e é uma etapa crucial antes de aplicar qualquer modelo estatístico ou de aprendizado de máquina aos dados.
@@ -1057,3 +1058,4 @@ plt.show()
 ![png](post-img\competições kaggle\output_32_0.png)
     
 
+**Nota:** Todo o código está disponível no [Github](https://github.com/gallileugenesis/California-Housing-Dataset)
