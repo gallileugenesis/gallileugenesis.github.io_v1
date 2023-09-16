@@ -526,7 +526,7 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/competi%C3%A7%C3%B5es%20kaggle/2023-09-16-Titanic-Classification-Pipeline-with-Spark/output_48_0.png?raw=true)
     
 
 
