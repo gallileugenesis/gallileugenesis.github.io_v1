@@ -2,13 +2,14 @@
 layout: post
 title:  "Pipeline de classficação do Titanic com Spark"
 date:   2023-09-16 00:00
-category: blog
+category: competições kaggle
 icon: www
-keywords: classificação, spark, big data, ciência de dados, python
+keywords: classificação, spark, big data, ciência de dados, kaggle
 image: 2023-09-16-Titanic-Classification-Pipeline-with-Spark/01.png
 preview: 0
 ---
 
+**Nota:** Todo o código está disponível no [Github](https://github.com/gallileugenesis/Titanic-Classification-Pipeline-with-Spark)
 
 Este tutorial demonstra como construir um pipeline de classificação completo usando Apache Spark e o conjunto de dados Titanic. O pipeline inclui pré-processamento de dados, engenharia de recursos, treinamento de modelo e avaliação
 
