@@ -8,6 +8,7 @@ keywords: EDA, blog, ciência de dados, distribuição de probabilidades, R
 image: 2023-08-26-Uniform_Distribution_With_R/01.png
 preview: 0
 ---
+
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -98,7 +99,6 @@ png("Figures/distribuicoes.png", width = 800, height = 400)
 par(mfrow=c(1, 1))
 
 ```
-
 
     
 ![png](https://github.com/gallileugenesis/uniform-distribution-with-R/blob/main/Figures/output_2_0.png?raw=true)
