@@ -16,17 +16,17 @@ This Jupyter Notebook provides basic examples of supervised and unsupervised mac
 ## Supervised Learning:
 
 ### K-Nearest Neighbors (KNN)
-- Example: KNN_Classification.ipynb
+- Example: KNN
 
 In this example, we demonstrate how to use the K-Nearest Neighbors (KNN) algorithm for classification.
 
 ### Decision Tree
-- Example: DecisionTree_Classification.ipynb
+- Example: DecisionTree
 
 This example showcases the Decision Tree algorithm for classification.
 
 ### Support Vector Machine (SVM)
-- Example: SVM_Classification.ipynb
+- Example: SVM
 
 Here, we use the Support Vector Machine (SVM) algorithm for classification.
 
@@ -240,8 +240,6 @@ confusion_matrix_plot = confusion_matrix(y_test, y_pred)
 fig, ax = plot_confusion_matrix(conf_mat=confusion_matrix_plot)
 plt.show()
 ```
-
-
     
 ![png](output_11_0.png)
     

@@ -1,9 +1,12 @@
 # blog page sections
-- name: blog
-  href: '/blog/'
-
 - name: projetos
   href: '/projetos/'
+
+- name: notebooks
+  href: '/notebooks/'
+
+- name: blog
+  href: '/blog/'
 
 - name: competições kaggle
   href: '/competições kaggle/'
