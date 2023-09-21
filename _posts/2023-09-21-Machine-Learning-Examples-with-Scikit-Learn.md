@@ -241,7 +241,7 @@ fig, ax = plot_confusion_matrix(conf_mat=confusion_matrix_plot)
 plt.show()
 ```
     
-![png](output_11_0.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2023-09-21-Machine-Learning-Examples-with-Scikit-Learn/output_11_0.png?raw=true)
     
 
 
@@ -278,7 +278,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2023-09-21-Machine-Learning-Examples-with-Scikit-Learn/output_15_0.png?raw=true)
     
 
 
@@ -313,7 +313,7 @@ Image(graph.create_png())
 
 
     
-![png](output_17_0.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2023-09-21-Machine-Learning-Examples-with-Scikit-Learn/output_17_0.png?raw=true)
     
 
 
@@ -360,7 +360,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2023-09-21-Machine-Learning-Examples-with-Scikit-Learn/output_21_0.png?raw=true)
     
 
 
@@ -453,7 +453,7 @@ df.plot()
 
 
     
-![png](output_24_1.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2023-09-21-Machine-Learning-Examples-with-Scikit-Learn/output_24_1.png?raw=true)
     
 
 
@@ -494,6 +494,6 @@ plt.ylabel("Y")
 
 
     
-![png](output_26_1.png)
+![png](https://github.com/gallileugenesis/gallileugenesis.github.io/blob/main/post-img/blog/2023-09-21-Machine-Learning-Examples-with-Scikit-Learn/output_26_1.png?raw=true)
     
 
