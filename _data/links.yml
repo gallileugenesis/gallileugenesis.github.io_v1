@@ -1,15 +1,18 @@
 # blog page sections
-- name: projetos
-  href: '/projetos/'
+- name: projetos e notebooks
+  href: '/projetos e notebooks/'
 
-- name: notebooks
-  href: '/notebooks/'
+# - name: projetos
+#   href: '/projetos/'
+
+# - name: notebooks
+#   href: '/notebooks/'
 
 - name: blog
   href: '/blog/'
 
-- name: competições kaggle
-  href: '/competições kaggle/'
+# - name: competições kaggle
+#   href: '/competições kaggle/'
 
 - name: pesquisa
   href: '/pesquisa/'
