@@ -2,7 +2,7 @@
 layout: post
 title:  "Pipeline de classficação do Titanic com Spark"
 date:   2023-09-16 00:00
-category: competições kaggle
+category: projetos e notebooks
 icon: www
 keywords: classificação, spark, big data, ciência de dados, kaggle
 image: 2023-09-16-Titanic-Classification-Pipeline-with-Spark/01.png

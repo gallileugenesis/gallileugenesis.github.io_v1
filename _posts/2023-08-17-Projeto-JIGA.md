@@ -2,7 +2,7 @@
 layout: post
 title:  "Projeto JIGA - Usina Pernambucana de Inovação"
 date:   2023-08-17 00:00
-category: projetos
+category: projetos e notebooks
 icon: www
 keywords: IA, projetos, ciência de dados, pesquisa 
 image: 2023-08-17-Projeto-JIGA/01.jpg

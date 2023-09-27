@@ -2,7 +2,7 @@
 layout: post
 title:  "Cadastro automático de processos no SAJ"
 date:   2023-08-16 00:00
-category: projetos
+category: projetos e notebooks
 icon: www
 keywords: projetos, hiperautomação, sistemas especialistas, automação 
 image: 2023-08-16-Hiperautomacao-cadastro-saj\1-Hiperautomação.png

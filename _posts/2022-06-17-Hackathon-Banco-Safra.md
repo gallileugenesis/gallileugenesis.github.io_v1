@@ -2,7 +2,7 @@
 layout: post
 title:  "Hackathon Banco Safra 2022"
 date:   2022-06-17 00:00
-category: projetos
+category: projetos e notebooks
 icon: www
 keywords: Hackathon, inovação, ciência de dados, openbanking
 image: 2022-06-17-Hackathon-Banco-Safra/0-banco_safra.jpg

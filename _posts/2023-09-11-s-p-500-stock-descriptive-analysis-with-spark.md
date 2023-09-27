@@ -2,7 +2,7 @@
 layout: post
 title:  "S&P 500 stock - Descriptive analysis with Spark"
 date:   2023-09-11 00:00
-category: blog
+category: projetos e notebooks
 icon: www
 keywords: EDA, spark, big data, ciência de dados, python
 image: 2023-09-11-s-p-500-stock-descriptive-analysis-with-spark/01.png
